@@ -18,8 +18,6 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/taoduol
-  GitLab:
-  Instagram:
   LinkedIn: https://linkedin.com/in/theresa-oduol-8babbb192
 
 # build settings
