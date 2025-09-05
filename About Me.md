@@ -20,7 +20,7 @@ order: 1
 <div class="bio-container">
   <div class="bio-text">
    <div class="bio-image">
-    <img src="usethisheadshot.jpg" alt="Theresa Oduol Headshot" />
+    <img src="assets/images/usethisheadshot.jpg"/>
   </div>
 </div>
 	  
