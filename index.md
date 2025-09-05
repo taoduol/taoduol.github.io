@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Description here
+Exceptional healthcare delivery depends on collaboration, growth, and shared innovation. I welcome opportunities to connect with fellow professionals, support emerging leaders, and share more about my work.
