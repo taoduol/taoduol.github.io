@@ -3,6 +3,7 @@ layout: page
 title: About Me
 image: assets/images/NEWNEW.png
 nav-menu: true
+order: 1
 ---
 
 <!-- Main -->
