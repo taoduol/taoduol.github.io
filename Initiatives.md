@@ -2,7 +2,7 @@
 title: Initiatives
 layout: landing
 description: 'Discover my work in patient safety, policy advocacy, digital innovation, and mentoring future health professionals.'
-image: assets/images/pic07.jpg
+image: assets/images/backtoback.png
 nav-menu: true
 order: 3
 ---
