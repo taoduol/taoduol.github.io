@@ -22,19 +22,49 @@ order: 1
    <div class="bio-image">
     <img src="assets/images/usethisheadshot.jpg"/>
 
-	.bio-container {
-  display: flex;           /* side by side layout */
-  align-items: flex-start; /* top align the text and image */
-  gap: 20px;               /* space between text and image */
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Theresa Oduol Bio</title>
+<style>
+  .bio-container {
+    display: flex;             /* side by side layout */
+    align-items: flex-start;   /* top align text and image */
+    gap: 20px;                 /* space between text and image */
+    flex-wrap: wrap;           /* allows stacking on smaller screens */
+  }
 
-.bio-image img {
-  width: 150px;           /* size of the headshot */
-  height: 150px;
-  border-radius: 50%;     /* makes it circular */
-  object-fit: cover;      /* crop image nicely within circle */
-}
-  </div>
+  .bio-text {
+    flex: 1;                   /* text takes remaining space */
+    min-width: 250px;          /* prevents text from getting too narrow */
+  }
+
+  .bio-image img {
+    width: 150px;              /* size of headshot */
+    height: 150px;
+    border-radius: 50%;        /* makes it circular */
+    object-fit: cover;         /* crops image nicely within circle */
+  }
+
+  /* Optional: stack image above text on small screens */
+  @media (max-width: 600px) {
+    .bio-container {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .bio-image img {
+      margin-bottom: 20px;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="bio-container">
+  <div class="bio-text">
 </div>
 	  
 <h2 id="content">Theresa Alando Oduol</h2>
