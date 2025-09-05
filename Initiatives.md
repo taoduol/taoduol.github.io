@@ -1,7 +1,7 @@
 ---
 title: Initiatives
 layout: landing
-description: 'Discover my work in patient safety, policy advocacy, and digital innovation as well as my work mentoring the next generation of health professionals.'
+description: 'Discover my work in patient safety, policy advocacy, digital innovation, and mentoring future health professionals.'
 image: assets/images/pic07.jpg
 nav-menu: true
 order: 3
