@@ -2,7 +2,7 @@
 layout: post
 title: Research Portfolio
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/images.png
 nav-menu: true
 ---
 
