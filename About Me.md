@@ -18,16 +18,13 @@ order: 1
 
 <!-- Content -->
 <h2 id="content">Theresa Alando Oduol</h2>
-<p> Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. She is driven by a passion for advancing health equity and patient safety, with a career dedicated to closing the gap between available treatments and exceptional care delivery.
+<p>Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. She is driven by a passion for advancing health equity and patient safety, with a career dedicated to closing the gap between available treatments and exceptional care delivery.</p>
 
-	<div class="row">
-Her expertise spans healthcare strategy, health equity, program management, and quality operations, guided by a strong commitment to detail and independent judgment. With a deep interest in pharmacoequity, Theresa applies this lens across all her work and thrives in multidisciplinary settings.
+<p>Her expertise spans healthcare strategy, health equity, program management, and quality operations, guided by a strong commitment to detail and independent judgment. With a deep interest in pharmacoequity, Theresa applies this lens across all her work and thrives in multidisciplinary settings.</p>
 
-	<div class="row">
-She has contributed to research in pharmacoepidemiology, health services research, and policy, facilitating innovation projects that evaluate hospital-based inequities and practical solutions. Her work also includes research examining Medicaid data quality, analyzing oncology drug pricing, and improving caregiving documentation in electronic health records.
+<p>She has contributed to research in pharmacoepidemiology, health services research, and policy, facilitating innovation projects that evaluate hospital-based inequities and practical solutions. Her work also includes research examining Medicaid data quality, analyzing oncology drug pricing, and improving caregiving documentation in electronic health records.</p>
 
-	<div class="row">
-Theresa believes that a meaningful career must also create space for mentorship. She has developed multiple summer internship programs and one-on-one mentoring opportunities for high school and college students—work she considers one of her greatest sources of pride and joy and serves as a driver of her work.</p>
+<p>Theresa believes that a meaningful career must also create space for mentorship. She has developed multiple summer internship programs and one-on-one mentoring opportunities for high school and college students—work she considers one of her greatest sources of pride and joy and serves as a driver of her work.</p>
 
 <hr class="major" />
 <div class="row">
