@@ -19,6 +19,10 @@ order: 1
 <!-- Content -->
 <div class="bio-container">
   <div class="bio-text">
+   <div class="bio-image">
+    <img src="usethisheadshot.jpg" alt="Theresa Oduol Headshot" />
+  </div>
+</div>
 	  
 <h2 id="content">Theresa Alando Oduol</h2>
 <p>Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. She is driven by a passion for advancing health equity and patient safety, with a career dedicated to closing the gap between available treatments and exceptional care delivery.</p>
@@ -30,10 +34,7 @@ order: 1
 <p>Theresa believes that a meaningful career must also create space for mentorship. She has developed multiple summer internship programs and one-on-one mentoring opportunities for high school and college students—work she considers one of her greatest sources of pride and joy and serves as a driver of her work.</p>
 
 <hr class="major" />
-  <div class="bio-image">
-    <img src="usethisheadshot.jpg" alt="Theresa Oduol Headshot" />
-  </div>
-</div>
+ 
 <div class="row">
 	
 <div class="6u 12u$(small)">
