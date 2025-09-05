@@ -20,7 +20,7 @@ order: 1
 <div style="overflow:auto;"> <!-- container to contain the floated image -->
   <img src="assets/images/usethisheadshot.jpg" 
        alt="Theresa Oduol Headshot" 
-       style="float:right; width:150px; height:150px; border-radius:50%; object-fit:cover; margin-left:20px; margin-bottom:10px;"/>
+       style="width:150px; height:150px; border-radius:50%; object-fit:cover; margin-left:20px; margin-bottom:10px;"/>
 
 
 </div>
