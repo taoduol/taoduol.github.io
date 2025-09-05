@@ -22,7 +22,7 @@ order: 1
   <div class="bio-text">
    <div class="bio-image">
     <img src="assets/images/usethisheadshot.jpg"/>
-	style="width:150px; height:150px; border-radius:50%; object-fit:cover;" 
+	"style="width:150px; height:150px; border-radius:50%; object-fit:cover;" 
 </div>
 </div>
 	  
