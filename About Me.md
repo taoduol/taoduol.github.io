@@ -21,6 +21,19 @@ order: 1
   <div class="bio-text">
    <div class="bio-image">
     <img src="assets/images/usethisheadshot.jpg"/>
+
+	.bio-container {
+  display: flex;           /* side by side layout */
+  align-items: flex-start; /* top align the text and image */
+  gap: 20px;               /* space between text and image */
+}
+
+.bio-image img {
+  width: 150px;           /* size of the headshot */
+  height: 150px;
+  border-radius: 50%;     /* makes it circular */
+  object-fit: cover;      /* crop image nicely within circle */
+}
   </div>
 </div>
 	  
