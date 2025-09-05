@@ -17,13 +17,12 @@ order: 1
 		</header>
 
 <!-- Content -->
-<h4>Left &amp; Right</h4>
+
 <div class="bio-container">
   <div class="bio-text">
    <div class="bio-image">
     <img src="assets/images/usethisheadshot.jpg"/>
 	style="width:150px; height:150px; border-radius:50%; object-fit:cover;" 
-    alt="Theresa Oduol Headshot"/>
 </div>
 </div>
 	  
