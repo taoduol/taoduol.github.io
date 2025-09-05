@@ -17,8 +17,12 @@ order: 1
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Theresa Alando Oduol</h2>
+<p> Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. Her leadership spans academia, client engagement, project management, and corporate social responsibility. Driven by a passion for advancing health equity and patient safety, Theresa is dedicated to closing the gap between available treatments and exceptional care delivery.
+
+Her career blends healthcare strategy, patient safety, equity, and quality operations with a strong commitment to detail and independent judgment. With a deep interest in pharmacoequity, she thrives in multidisciplinary settings, applying this lens across all her work. Theresa has supported research in pharmacoepidemiology, health services research, and policy, and she leads innovation pilots aimed at reducing hospital-based inequities and testing solutions. She also conducts research on Medicaid data quality, oncology drug pricing, and caregiving documentation in electronic health records.
+
+Believing that a career is incomplete without the opportunity to give back, Theresa has developed internship programs and one-on-one mentorship opportunities for high school and college students—work she considers one of her greatest joys and driver of her work.</p>
 <hr class="major" />
 <div class="row">
 	
