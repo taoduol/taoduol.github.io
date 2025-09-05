@@ -2,7 +2,7 @@
 layout: page
 title: Research Portfolio
 description: Research Initiatives designed to advance health equity, enhance quality, and improve patient outcomes
-image: assets/images/images.png
+image: assets/images/research.png
 nav-menu: true
 order: 2
 ---
