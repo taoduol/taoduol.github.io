@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Research Portfolio
-description: Lorem ipsum dolor est
+description: Research Initiatives designed to advance health equity, enhance quality, and improve patient outcomes
 image: assets/images/images.png
 nav-menu: true
 ---
