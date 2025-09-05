@@ -25,6 +25,11 @@ order: 1
 
 </div>
 </div>
+
+<div style="display:flex; align-items:flex-start; gap:20px; padding:20px;">
+  <!-- Text section -->
+  <div style="flex:1;">
+    <h2 style="margin-top:0;">Theresa Alando Oduol</h2>
 	  
 <h2 id="content">Theresa Alando Oduol</h2>
 <p style="margin-bottom:15px;">Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. She is driven by a passion for advancing health equity and patient safety, with a career dedicated to closing the gap between available treatments and exceptional care delivery.</p>
