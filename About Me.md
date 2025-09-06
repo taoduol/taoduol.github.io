@@ -17,19 +17,9 @@ order: 1
 		</header>
 
 <!-- Content -->
-<div style="overflow:auto;"> <!-- container to contain the floated image -->
-  <img src="assets/images/usethisheadshot.jpg" 
-       alt="Theresa Oduol Headshot" 
-       style="width:150px; height:150px; border-radius:50%; object-fit:cover; margin-left:20px; margin-bottom:10px;"/>
 
-
-</div>
-</div>
-
-<div style="display:flex; align-items:flex-start; gap:20px; padding:20px;">
   <!-- Text section -->
-  <div style="flex:1;">
-    <h2 style="align-items:flex-start;">Theresa Alando Oduol</h2>
+    <h2 style=";">Theresa Alando Oduol</h2>
 	  
 <h2 id="content">Theresa Alando Oduol</h2>
 <p style="align-items:flex-start;">Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. She is driven by a passion for advancing health equity and patient safety, with a career dedicated to closing the gap between available treatments and exceptional care delivery.</p>
@@ -39,6 +29,20 @@ order: 1
 <p>She has contributed to research in pharmacoepidemiology, health services research, and policy, facilitating innovation projects that evaluate hospital-based inequities and practical solutions. Her work also includes research examining Medicaid data quality, analyzing oncology drug pricing, and improving caregiving documentation in electronic health records.</p>
 
 <p>Theresa believes that a meaningful career must also create space for mentorship. She has developed multiple summer internship programs and one-on-one mentoring opportunities for high school and college students—work she considers one of her greatest sources of pride and joy and serves as a driver of her work.</p>
+
+</div>
+
+<!-- Image section -->
+        <div>
+          <img src="assets/images/aboutme.jpg" 
+               alt="Theresa Oduol Headshot" 
+               style="width:250px; height:250px; border-radius:50%; object-fit:cover;"/>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
 
 <hr class="major" />
  
