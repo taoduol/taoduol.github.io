@@ -36,13 +36,8 @@ order: 3
 	<p>The premise of RESCO is to center equity—treating it with the same priority as safety—so that it becomes a guiding principle woven into every hospital decision.</p>
    <p> RESCO is a multi-phase initiative currently in its early stages. More information will be available soon.</p>
 
-<p>Our initiative provides high school and college students with one-on-one mentorship and dynamic programming to help them take ownership over their careers. We actively help students navigate the process of seeking work experience. </p>
-
-<p>Our ultimate goal is to elevate others, offer advice, and inspire a culture of service in our mentees. We believe that by gaining practical experience and sharing a wealth of open resources to support students in crafting their professional narrative, students will not only find their own paths but also be equipped to guide others on theirs.</p>
-
-<p>We welcome you to explore more here at our website below.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn More</a></li>
+					<li><a href="generic.html" class="button">Coming Soon!</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,7 +59,7 @@ order: 3
 <p>Our ultimate goal is to elevate others, offer advice, and inspire a culture of service in our mentees. We believe that by gaining practical experience and sharing a wealth of open resources to support students in crafting their professional narrative, students will not only find their own paths but also be equipped to guide others on theirs.</p>
 
 				<ul class="actions">
-					<li><a href="#" class="button">COMING SOON!</a></li>
+					<li><a href="#" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
