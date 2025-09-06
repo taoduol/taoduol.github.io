@@ -11,15 +11,11 @@ order: 1
 
 	<!-- Image section -->
         <div>
-          <div style="align-items:flex-start;"> <!-- container to contain the floated image -->
+<div style="text-align:center; margin:20px 0;">
   <img src="assets/images/aboutme.jpg" 
        alt="Theresa Oduol Headshot" 
-       style="width:300px; height:300px; border-radius:70%; object-fit:cover; margin-left:20px; margin-bottom:10px;"/>
-
+       style="width:300px; height:300px; border-radius:50%; object-fit:cover;"/>
 </div>
-    </div>
-
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
