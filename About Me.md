@@ -43,7 +43,8 @@ order: 1
 <p>Theresa is a graduate of Cornell University, where she earned honors with distinction in research. Her interdisciplinary major bridged infectious disease biology with public administration and development coursework to better understand the social, economic, and political drivers of disease. As she enters graduate school, Theresa is committed to synthesizing new knowledge, advancing care delivery strategies to enhance safety, and serving communities.</p>
 
 <p>Outside of her career, Theresa loves to play pickleball and tennis, cook, and foster shared experiences with friends, family, and colleagues.</p>
-	
+
+ 
 
 
 <!-- Buttons -->
