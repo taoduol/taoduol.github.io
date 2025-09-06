@@ -21,27 +21,25 @@ order: 1
   <!-- Text section -->
     <h2 style=";">Theresa Alando Oduol</h2>
 	  
-<h2 id="content">Theresa Alando Oduol</h2>
 <p style="align-items:flex-start;">Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. She is driven by a passion for advancing health equity and patient safety, with a career dedicated to closing the gap between available treatments and exceptional care delivery.</p>
 
-<p>Her expertise spans healthcare strategy, health equity, program management, and quality operations, guided by a strong commitment to detail and independent judgment. With a deep interest in pharmacoequity, Theresa applies this lens across all her work and thrives in multidisciplinary settings.</p>
+<p>Her expertise spans healthcare strategy, health equity, program management, academic affairs, and quality operations, guided by a strong commitment to detail and independent judgment. With a deep interest in pharmacoequity, Theresa applies this lens across all her work and thrives in multidisciplinary settings.</p>
 
 <p>She has contributed to research in pharmacoepidemiology, health services research, and policy, facilitating innovation projects that evaluate hospital-based inequities and practical solutions. Her work also includes research examining Medicaid data quality, analyzing oncology drug pricing, and improving caregiving documentation in electronic health records.</p>
 
-<p>Theresa believes that a meaningful career must also create space for mentorship. She has developed multiple summer internship programs and one-on-one mentoring opportunities for high school and college students—work she considers one of her greatest sources of pride and joy and serves as a driver of her work.</p>
+<p>Theresa believes that a meaningful career must also create space for mentorship. She has developed multiple summer internship programs and one-on-one mentoring opportunities for high school and college students—work she considers one of her greatest sources of joy and serves as a driver of her work.</p>
 
 </div>
 
 <!-- Image section -->
         <div>
-          <img src="assets/images/aboutme.jpg" 
-               alt="Theresa Oduol Headshot" 
-               style="width:250px; height:250px; border-radius:50%; object-fit:cover;"/>
-        </div>
-      </div>
-    </div>
-  </section>
+          <div style="overflow:auto;"> <!-- container to contain the floated image -->
+  <img src="assets/images/aboutme.jpg" 
+       alt="Theresa Oduol Headshot" 
+       style="width:300px; height:300px; border-radius:70%; object-fit:cover; margin-left:20px; margin-bottom:10px;"/>
+
 </div>
+    </div>
 
 
 <hr class="major" />
