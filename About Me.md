@@ -29,10 +29,10 @@ order: 1
 <div style="display:flex; align-items:flex-start; gap:20px; padding:20px;">
   <!-- Text section -->
   <div style="flex:1;">
-    <h2 style="margin-top:0;">Theresa Alando Oduol</h2>
+    <h2 style="align-items:flex-start;">Theresa Alando Oduol</h2>
 	  
 <h2 id="content">Theresa Alando Oduol</h2>
-<p style="margin-bottom:15px;">Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. She is driven by a passion for advancing health equity and patient safety, with a career dedicated to closing the gap between available treatments and exceptional care delivery.</p>
+<p style="align-items:flex-start;">Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. She is driven by a passion for advancing health equity and patient safety, with a career dedicated to closing the gap between available treatments and exceptional care delivery.</p>
 
 <p>Her expertise spans healthcare strategy, health equity, program management, and quality operations, guided by a strong commitment to detail and independent judgment. With a deep interest in pharmacoequity, Theresa applies this lens across all her work and thrives in multidisciplinary settings.</p>
 
