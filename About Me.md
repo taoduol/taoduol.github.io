@@ -63,7 +63,7 @@ order: 1
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pillar_excellence.jpeg.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pillar_excellence.jpeg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/icpe-red.jpeg %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/spotlight.jpeg %}" alt="" /></span></div>
 		<!-- Break -->
