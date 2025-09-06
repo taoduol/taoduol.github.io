@@ -34,7 +34,7 @@ order: 1
 
 <p>Her expertise spans health equity, program management, academic affairs, and quality operations, guided by a strong commitment to detail and independent judgment. With a deep interest in pharmacoequity, Theresa applies this lens across all her research activities and thrives in multidisciplinary settings.</p>
 
-<p>She has contributed to research in pharmacoepidemiology, health services research, and policy, leading innovation projects that evaluate hospital-based inequities and test practical solutions, and has presented her work at multiple international conferences. Her research also includes examining Medicaid data quality, analyzing oncology drug pricing, and improving caregiving documentation in electronic health records.</p>
+<p>She has contributed to research in pharmacoepidemiology, health services research, and policy at Harvard Medical School, leading innovation projects that evaluate hospital-based inequities and test practical solutions, and has presented her work at multiple international conferences. Her research also includes examining Medicaid data quality, analyzing oncology drug pricing, and improving caregiving documentation in electronic health records.</p>
 
 <p>Theresa’s research philosophy centers on the value of personal narratives in navigating healthcare systems as a way to observe and explore opportunities for improving care delivery. These experiences have been the foundation of her past and current research questions and have cultivated her interest in health services research and policy.</p>
 
