@@ -9,6 +9,17 @@ order: 1
 <!-- Main -->
 <div id="main" class="alt">
 
+	<!-- Image section -->
+        <div>
+          <div style="align-items:flex-start;"> <!-- container to contain the floated image -->
+  <img src="assets/images/aboutme.jpg" 
+       alt="Theresa Oduol Headshot" 
+       style="width:300px; height:300px; border-radius:70%; object-fit:cover; margin-left:20px; margin-bottom:10px;"/>
+
+</div>
+    </div>
+
+
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -31,15 +42,6 @@ order: 1
 
 </div>
 
-<!-- Image section -->
-        <div>
-          <div style="align-items:flex-start;"> <!-- container to contain the floated image -->
-  <img src="assets/images/aboutme.jpg" 
-       alt="Theresa Oduol Headshot" 
-       style="width:300px; height:300px; border-radius:70%; object-fit:cover; margin-left:20px; margin-bottom:10px;"/>
-
-</div>
-    </div>
 
 
 <hr class="major" />
