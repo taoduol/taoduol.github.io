@@ -63,8 +63,8 @@ order: 1
 
 <style>
 .box .image.fit img {
-  width: 100%;
-  height: 300px;
+  width: 90%;
+  height: 400px;
   object-fit: cover;
 }
 </style>
@@ -87,8 +87,3 @@ order: 1
  
 <div class="row">
 	
-</div>
-</section>
-
-</div>
- 
