@@ -16,7 +16,7 @@ order: 3
 		<header class="major">
 			<h2>From Shared Experience to Collective Action</h2>
 		</header>
-		<p>My initiatives are built on a foundation of collaboration and mentorship. I am profoundly grateful to the colleagues and mentors who have shared their experiences with me, as their guidance has given me the opportunity to invest in innovative and collaborative programs. I invite you to scroll down and explore my initiatives in more detail.</p>
+		<p>My initiatives are united by a commitment to bringing people together to create meaningful impact. Grounded in collaboration and mentorship, they reflect the guidance and inspiration I’ve received from colleagues and mentors along the way. Each initiative is a space where shared ideas and collective effort make something special happen. I invite you to scroll down and explore them in more detail.</p>
 	</div>
 </section>
 
@@ -24,14 +24,17 @@ order: 3
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/alando.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/RESCO-1.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The Alando Exchange</h3>
+					<h3>RESCO</h3>
+					<h4>Research Evaluation for Systemic Care Optimization</h4>
 				</header>
-				<p>The Alando Exchange is more than just a mentorship program; it's a community dedicated to building the next generation of well-rounded professionals. We understand that a  career isn't just built in the classroom—it's forged through practical, applied experiences. </p>
+				<p>The Research Evaluation for Systemic Care Optimization (RESCO) initiative is designed to build a collaborative community that addresses hospital-based health inequities and care delivery gaps by transforming emerging evidence into actionable change within healthcare systems. We apply systems thinking to align processes, resources, and stakeholders in ways that enhance efficiency, reduce costs, improve quality, and ensure equitable access to care. Spanning all specialties, RESCO develops models and solutions that can be integrated into standard practice, inform future guidelines, and accelerate the impact of emerging evidence to improve the way patients are served. </p>
+	<p>The premise of RESCO is to center equity—treating it with the same priority as safety—so that it becomes a guiding principle woven into every hospital decision.</p>
+   <p> RESCO is a multi-phase initiative currently in its early stages. More information will be available soon.</p>
 
 <p>Our initiative provides high school and college students with one-on-one mentorship and dynamic programming to help them take ownership over their careers. We actively help students navigate the process of seeking work experience. </p>
 
@@ -46,16 +49,22 @@ order: 3
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/alando.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>The Alando Exchange</h3>
+					<h4>Amplifying Learning And Nurturing Diverse Opportunities</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>The Alando Exchange is more than just a mentorship program; it's a community dedicated to building the next generation of well-rounded professionals. We understand that a  career isn't just built in the classroom—it's forged through practical, applied experiences. </p>
+
+<p>Our initiative provides high school and college students with one-on-one mentorship and dynamic programming to help them take ownership over their careers. We actively help students navigate the process of seeking work experience. </p>
+
+<p>Our ultimate goal is to elevate others, offer advice, and inspire a culture of service in our mentees. We believe that by gaining practical experience and sharing a wealth of open resources to support students in crafting their professional narrative, students will not only find their own paths but also be equipped to guide others on theirs.</p>
+
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">COMING SOON!</a></li>
 				</ul>
 			</div>
 		</div>
@@ -67,7 +76,7 @@ order: 3
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Combatting SF Medicines</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
