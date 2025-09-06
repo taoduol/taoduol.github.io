@@ -58,8 +58,16 @@ order: 1
 
 <hr class="major" />
 
-<h4>Experienes</h4>
-<p>Having traveled across the globe, I hope to continue shaping my research through the lens of global collaboration and shared experiences.</p>
+<h2>Experiences</h2>
+<p>Having engaged in projects around the world, I aim to continue developing research informed by international collaboration and shared experiences.</p>
+
+<style>
+.box .image.fit img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+</style>
 
 <div class="box alt">
 	<div class="row 50% uniform">
