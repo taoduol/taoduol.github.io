@@ -79,7 +79,7 @@ order: 1
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/china.JPG %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/friends.jpeg %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/icpe-orlando.jpeg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/astmh.JPG %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/spain.JPG %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/jordan.jpeg %}" alt="" /></span></div>
 	</div>
