@@ -45,7 +45,6 @@ order: 1
 <p>Outside of her career, Theresa loves to play pickleball and tennis, cook, and foster shared experiences with friends, family, and colleagues.</p>
 	
 
-</div>
 
 <!-- Buttons -->
 <ul class="actions" style="display:flex; justify-content:center; gap:15px; list-style:none; padding:0; margin:20px 0;">
