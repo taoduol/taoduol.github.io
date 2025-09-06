@@ -33,7 +33,7 @@ order: 1
 
 <!-- Image section -->
         <div>
-          <div style="overflow:auto;"> <!-- container to contain the floated image -->
+          <div style="align-items:flex-start;"> <!-- container to contain the floated image -->
   <img src="assets/images/aboutme.jpg" 
        alt="Theresa Oduol Headshot" 
        style="width:300px; height:300px; border-radius:70%; object-fit:cover; margin-left:20px; margin-bottom:10px;"/>
