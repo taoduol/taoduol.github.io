@@ -23,7 +23,7 @@ order: 3
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="{% link assets/images/RESCO-1.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -37,13 +37,13 @@ order: 3
    <p> RESCO is a multi-phase initiative currently in its early stages. More information will be available soon.</p>
 
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Coming Soon!</a></li>
+					<li><a href="#" class="button">Coming Soon!</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="{% link assets/images/alando.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -65,7 +65,7 @@ order: 3
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="{% link assets/images/fake.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
