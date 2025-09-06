@@ -78,24 +78,12 @@ order: 3
 				<ul class="actions">
 					<li><a href="https://fakemedicinenomore.org/" class="button">BESAFE by JHU</a></li>
 	 <li><a href="https://www.dea.gov/alert/dea-issues-warning-about-illegal-online-pharmacies" class="button">DEA Public Safety Alert</a></li>
+  	</div>
   <li><a href="https://www.fda.gov/drugs/buying-using-medicine-safely/counterfeit-medicine#:~:text=Counterfeit%20(fake%20or%20falsified)%20medicines,the%20safest%20in%20the%20world." class="button">FDA Article on Counterfeit Medicines</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 </section>
-
-#<!-- Three -->
-#<section id="three">
-#	<div class="inner">
-#		<header class="major">
-#			<h2>Massa libero</h2>
-#		</header>
-#		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. #Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et #orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.#</p>
-		#<ul class="actions">
-		#	<li><a href="generic.html" class="button next">Get Started</a></li>
-		#</ul>
-	#</div>
-#</section>
 
 #</div>
