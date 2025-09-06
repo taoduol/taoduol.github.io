@@ -30,17 +30,30 @@ order: 1
   <!-- Text section -->
     <h2 style=";">Theresa Alando Oduol</h2>
 	  
-<p style="align-items:flex-start;">Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. She is driven by a passion for advancing health equity and patient safety, with a career dedicated to closing the gap between available treatments and exceptional care delivery.</p>
+<p style="align-items:flex-start;">Theresa Oduol is a research and program management professional with over four years of experience in healthcare systems. She is driven by a passion for advancing health equity and patient safety, with a dedicated focus on closing the gap between available treatments and exceptional care delivery.
 
-<p>Her expertise spans healthcare strategy, health equity, program management, academic affairs, and quality operations, guided by a strong commitment to detail and independent judgment. With a deep interest in pharmacoequity, Theresa applies this lens across all her work and thrives in multidisciplinary settings.</p>
+</p>Her expertise spans health equity, program management, academic affairs, and quality operations, guided by a strong commitment to detail and independent judgment. With a deep interest in pharmacoequity, Theresa applies this lens across all her research activities and thrives in multidisciplinary settings.</p>
 
-<p>She has contributed to research in pharmacoepidemiology, health services research, and policy, facilitating innovation projects that evaluate hospital-based inequities and practical solutions. Her work also includes research examining Medicaid data quality, analyzing oncology drug pricing, and improving caregiving documentation in electronic health records.</p>
+</p>She has contributed to research in pharmacoepidemiology, health services research, and policy, leading innovation projects that evaluate hospital-based inequities and test practical solutions, and has presented her work at multiple international conferences. Her research also includes examining Medicaid data quality, analyzing oncology drug pricing, and improving caregiving documentation in electronic health records.</p>
 
-<p>Theresa believes that a meaningful career must also create space for mentorship. She has developed multiple summer internship programs and one-on-one mentoring opportunities for high school and college students—work she considers one of her greatest sources of joy and serves as a driver of her work.</p>
+</p>Theresa’s research philosophy centers on the value of personal narratives in navigating healthcare systems as a way to observe and explore opportunities for improving care delivery. These experiences have been the foundation of her past and current research questions and have cultivated her interest in health services research and policy.</p>
+
+</p>Theresa believes that a meaningful career must also create space for mentorship. She has developed multiple summer internship programs and one-on-one mentoring opportunities for high school and college students—work she considers one of her greatest sources of joy and a driver of her professional purpose. As the Founder of The Alando Exchange (Amplifying Learning And Nurturing Diverse Opportunities), Theresa works with high school juniors and seniors and college students in the U.S. and Kenya, providing guidance in networking, communication strategies, mentor identification, and outreach to help students gain applied experiences that complement their higher education. Learn more about The Alando Exchange on this website.</p>
+
+</p>Theresa is a graduate of Cornell University, where she earned honors with distinction in research. Her interdisciplinary major bridged infectious disease biology with public administration and development coursework to better understand the social, economic, and political drivers of disease. As she enters graduate school, Theresa is committed to synthesizing new knowledge, advancing care delivery strategies to enhance safety, and serving communities.</p>
+
+</p>Outside of her career, Theresa loves to play pickleball and tennis, cook, and foster shared experiences with friends, family, and colleagues.</p>
+	
 
 </div>
 
-
+<!-- Buttons -->
+<ul class="actions">
+	<li><a href="https://www.linkedin.com/in/theresa-oduol-8babbb192/" class="button special">LinkedIn</a></li>
+	<li><a href="https://github.com/taoduol" class="button special">Github</a></li>
+    <li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=theresa+oduol&sort=date" class="button special">PubMed</a></li>
+	<li><a href="#" class="button icon fa-download">CV</a></li>
+	
 
 <hr class="major" />
  
