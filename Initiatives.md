@@ -75,10 +75,20 @@ order: 3
 				</header>
 				<p>This initiative addresses the growing threat of substandard or falsified (SF) medicines, a risk heightened by the rise of unauthorized online pharmacies. The project aims to protect patients by bringing together researchers, drug enforcement agencies, and government partners. Specifically, we seek to better understand the scope and nature of the challenges, identify opportunities for shared solutions and coordinated efforts, and drive research and innovation to develop new strategies for patient protection.</p>
 	<p>This project is currently underway, with more details coming soon. In the meantime, explore the collaborators leading this work and additional resources below.</p>
+
+ <head>
+  <style>
+    .actions li {
+      margin-right: 10px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+
 				<ul class="actions">
 					<li><a href="https://fakemedicinenomore.org/" class="button">BESAFE by JHU</a></li>
 	 <li><a href="https://www.dea.gov/alert/dea-issues-warning-about-illegal-online-pharmacies" class="button">DEA Public Safety Alert</a></li>
-  	</div>
+  
   <li><a href="https://www.fda.gov/drugs/buying-using-medicine-safely/counterfeit-medicine#:~:text=Counterfeit%20(fake%20or%20falsified)%20medicines,the%20safest%20in%20the%20world." class="button">FDA Article on Counterfeit Medicines</a></li>
 				</ul>
 			</div>
@@ -86,4 +96,3 @@ order: 3
 	</section>
 </section>
 
-#</div>
