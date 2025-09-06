@@ -66,33 +66,36 @@ order: 3
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/fake.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Combatting SF Medicines</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This initiative addresses the growing threat of substandard or falsified (SF) medicines, a risk heightened by the rise of unauthorized online pharmacies. The project aims to protect patients by bringing together researchers, drug enforcement agencies, and government partners. Specifically, we seek to better understand the scope and nature of the challenges, identify opportunities for shared solutions and coordinated efforts, and drive research and innovation to develop new strategies for patient protection.</p>
+	<p>This project is currently underway, with more details coming soon. In the meantime, explore the collaborators leading this work and additional resources below.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://fakemedicinenomore.org/" class="button">BESAFE by JHU</a></li>
+	 <li><a href="https://www.dea.gov/alert/dea-issues-warning-about-illegal-online-pharmacies" class="button">DEA Public Safety Alert</a></li>
+  <li><a href="https://www.fda.gov/drugs/buying-using-medicine-safely/counterfeit-medicine#:~:text=Counterfeit%20(fake%20or%20falsified)%20medicines,the%20safest%20in%20the%20world." class="button">FDA Article on Counterfeit Medicines</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 </section>
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
+#<!-- Three -->
+#<section id="three">
+#	<div class="inner">
+#		<header class="major">
+#			<h2>Massa libero</h2>
+#		</header>
+#		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. #Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et #orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.#</p>
+		#<ul class="actions">
+		#	<li><a href="generic.html" class="button next">Get Started</a></li>
+		#</ul>
+	#</div>
+#</section>
 
-</div>
+#</div>
