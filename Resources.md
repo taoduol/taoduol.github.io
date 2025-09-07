@@ -63,13 +63,12 @@ order: 5
 </div>
 </section>
 
-<section/>
-	<section id="Contact Me">
-	  <div class="inner">
-	<h4>Have suggestions for additional resources? I’d love to hear from you! Please email me.</h4>     
-    </header>
-                <ul class="actions">
-                    <li><a href="mailto:taoduol@outlook.com" class="button">Contact Me</a></li>
-                </ul>
-            </div>
+<section id="Contact-Me">
+  <div class="inner" style="text-align: center;">
+    <h4>Have suggestions for additional resources? I’d love to hear from you! Please email me.</h4>     
+    <ul class="actions" style="display: flex; justify-content: center; gap: 15px; padding: 0; list-style: none; margin-top: 10px;">
+      <li><a href="mailto:taoduol@outlook.com" class="button">Contact Me</a></li>
+    </ul>
+  </div>
+</section>
       
