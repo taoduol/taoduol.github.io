@@ -13,11 +13,12 @@ order: 2
 <!-- One -->
 
 <section id="one">
-  <div class="inner">
+  <div class="inner" style="text-align:center;">
     <header class="major">
       <h1>Research Portfolio</h1>
     </header>
   </div>
+</section>
 
 <!-- Content -->
 <section id="Research Interests">
