@@ -66,12 +66,12 @@ order: 3
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/fake.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/sfmedicine.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Combatting SF Medicines</h3>
+					<h3>Combating SF Medicines</h3>
 				</header>
 				<p>This initiative addresses the growing threat of substandard or falsified (SF) medicines, a risk heightened by the rise of unauthorized online pharmacies. The project aims to protect patients by bringing together researchers, drug enforcement agencies, and government partners. Specifically, we seek to better understand the scope and nature of the challenges, identify opportunities for shared solutions and coordinated efforts, and drive research and innovation to develop new strategies for patient protection.</p>
 	<p>This project is currently underway, with more details coming soon. In the meantime, explore the collaborators leading this work and additional resources below.</p>
