@@ -29,74 +29,131 @@ order: 2
 <div class="row">
 	<div class="6u 12u$(small)">
 <!-- Lists -->
+<!-- Lists -->
 <h3>Skills</h3>
 <div class="row">
-	<div class="6u 12u$(small)">
- 
- <h4>Skills</h4>
-		<ul class="alt">
-			<li>Literature Reviews</li>
-			<li>Study Recruitment and Enrollment</li>
-			<li>Institutional Review Board</li>
-			<li>Data Cleaning</li>
-			<li>Data Analysis /li>
-			<li>Poster Presentation</li>
-			<li>Oral Presentation</li>
-		</ul>
+  <!-- Left Column -->
+  <div class="6u 12u$(small)">
+    <h4>Skills</h4>
+    <ul class="alt">
+      <li>Literature Reviews</li>
+      <li>Study Recruitment and Enrollment</li>
+      <li>Institutional Review Board</li>
+      <li>Data Cleaning</li>
+      <li>Data Analysis</li>
+      <li>Poster Presentation</li>
+      <li>Oral Presentation</li>
+	  <li>Chart Review</li>
+    </ul>
+  </div>
 
-<h4>Tools</h4>
-		<ul class="alt">
-			<li>Microsoft Office</li>
-			<li>Github</li>
-			<li>Gitlab</li>
-			<li>R</li>
-			<li>Python</li>
-			<li>Tableau</li>
-			<li>RedCap</li>
-			<li>Natural Language Processing (NLP)</li>
-			<li>EPIC</li>
-		</ul>
+  <!-- Right Column -->
+  <div class="6u 12u$(small)">
+    <h4>Tools</h4>
+    <ul class="alt">
+      <li>Microsoft Office</li>
+      <li>Github</li>
+      <li>Gitlab</li>
+      <li>R</li>
+      <li>Python</li>
+      <li>Tableau</li>
+      <li>RedCap</li>
+      <li>Natural Language Processing (NLP)</li>
+      <li>EPIC</li>
+    </ul>
+  </div>
+</div>
   
  <div class="row">
-	<div class="6u 12u$(small)">
+	<section id="projects">
+  <div class="inner">
+    <header class="major">
+      <h1>Current Projects</h1>
+    </header>
 
-<section id="two">
-	<div class="inner">
-		<header class="major">
-			<h1>Current Projects</h1>
-		</header>
-		
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
+    <div class="accordion">
+
+      <!-- Project 1 -->
+      <div class="accordion-item">
+        <button class="accordion-header">RESCO Initiative</button>
+        <div class="accordion-content">
+          <p>RESCO is a collaborative effort designed to address hospital-based health inequities and care delivery gaps. By transforming emerging evidence into healthcare systems, RESCO seeks to ensure equitable access, improve efficiency, and integrate solutions into standard of care.</p>
+        </div>
+      </div>
+
+      <!-- Project 2 -->
+      <div class="accordion-item">
+        <button class="accordion-header">Substandard Medicines Project</button>
+        <div class="accordion-content">
+          <p>This initiative focuses on addressing the growing threat of substandard medicines, particularly in the wake of unauthorized online pharmacies. The project brings together researchers, regulators, and government partners to explore collaboration, research, and innovation to keep patients safe.</p>
+        </div>
+      </div>
+
+      <!-- Project 3 -->
+      <div class="accordion-item">
+        <button class="accordion-header">Health Equity Innovation Pilots</button>
+        <div class="accordion-content">
+          <p>Building on institutional pilot projects, this work explores models for advancing health equity at the systems level, testing practical solutions that inform care delivery, patient safety, and policy development.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- Accordion Styles -->
+<style>
+.accordion-item {
+  border-bottom: 1px solid #ddd;
+}
+
+.accordion-header {
   width: 100%;
+  padding: 15px;
   text-align: left;
+  font-size: 1.1em;
+  font-weight: bold;
+  background: #f9f9f9;
   border: none;
   outline: none;
-  transition: 0.4s;
+  cursor: pointer;
+  transition: background 0.3s ease;
 }
-.panel {
-  padding: 0 18px;
-  background-color: purple;
+
+.accordion-header:hover {
+  background: #eee;
+}
+
+.accordion-content {
   display: none;
-  overflow: hidden;
+  padding: 15px;
+  background: #fff;
+  font-size: 0.95em;
+  line-height: 1.5;
 }
-<button class="accordion">Section 1</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
+.accordion-content p {
+  margin: 0;
+}
+</style>
 
-<button class="accordion">Section 2</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
+<!-- Accordion Script -->
+<script>
+document.querySelectorAll(".accordion-header").forEach(button => {
+  button.addEventListener("click", () => {
+    const content = button.nextElementSibling;
 
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
+    // Close other accordions
+    document.querySelectorAll(".accordion-content").forEach(item => {
+      if (item !== content) {
+        item.style.display = "none";
+      }
+    });
+
+    // Toggle current accordion
+    content.style.display = content.style.display === "block" ? "none" : "block";
+  });
+});
+</script>
 
 <!-- Buttons -->
 <ul class="actions" style="display:flex; justify-content:center; gap:15px; list-style:none; padding:0; margin:20px 0;">
