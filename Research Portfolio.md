@@ -27,10 +27,6 @@ order: 2
   <p>Exploring institutional strategies for advancing equitable healthcare solutions, drawing on my experience with health equity innovation pilots. My work with RESCO focuses on accelerating systems-level models that improve the access, quality, and equity of care.</p>
  
 
-
-<div class="row">
-	<div class="6u 12u$(small)">
-<!-- Lists -->
 <!-- Lists -->
 
 <div class="row">
