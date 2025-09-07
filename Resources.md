@@ -45,8 +45,8 @@ order: 5
     </header>
 <!-- Buttons -->
   <ul class="actions">
-    <li><a href="#" class="button special">Health Equity Measurement</a></li>
-    <li><a href="#" class="button special">Substandard and Falsified Medicines</a></li>
+    <li><a href="#" class="button icon fa-download">Health Equity Measurement</a></li>
+    <li><a href="#" class="button icon fa-download">Substandard and Falsified Medicines</a></li>
   </ul>
 </div>
 </section>
@@ -54,14 +54,14 @@ order: 5
 <section id="Health Services Research and Policy News">
   <div class="inner">
     <header class="major">
-      <h2>Health Services Research and Policy News</h2>
+      <h2>Health Services Research and Policy Newsletter</h2>
     </header>
 <!-- Buttons -->
   <ul class="actions">
     <li><a href="#" class="button special">Coming Soon!</a></li>
   </ul>
 </div>
-
+</section>
 <!-- Form -->
 <h3>Form</h3>
 
@@ -83,3 +83,13 @@ order: 5
 		</div>
 	</div>
 </form>
+
+<section/>
+ </header>
+	<h4>Have suggestions for additional resources? I’d love to hear from you! Please email me.</h4>     
+
+                <ul class="actions">
+                    <li><a href="mailto:taoduol@outlook.com" class="button">Contact Me</a></li>
+                </ul>
+            </div>
+        </section>
