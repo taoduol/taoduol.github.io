@@ -20,14 +20,103 @@ order: 2
 <!-- Content -->
 <h2 id="content">Research Interests</h2>
 	<h3>Pharmacoequity</h3>
-<p>Pharmacoequityraesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>I explore the quality of evidence underlying health inequities, the risks tied to substandard and falsified medicines, and the financial challenges patients face in accessing treatment. My work aims to highlight gaps and opportunities in how medicines and care outcomes are experienced across populations. Pharmacoequity, a term coined by Dr. Utibe Essien, advocates for the ideal that all individuals—regardless of race, ethnicity, or socioeconomic background—should have access to the highest quality treatment available.</p>
 	<h3>Bridging Health Services Research and Health Informatics</h3>
- <p>Test</p>
+ <p>I seek to bridge health services research with informatics by leveraging the full continuum of electronic health data—from its source and transformation to its evaluative use—to address equity-focused questions.</p>
  	<h3>Health Equity Innovation</h3>
-  <p>Test.</p>
+  <p>Exploring institutional strategies for advancing equitable healthcare solutions, drawing on my experience with health equity innovation pilots. My work with RESCO focuses on accelerating systems-level models that improve the access, quality, and equity of care.</p>
  
 <div class="row">
 	<div class="6u 12u$(small)">
+<!-- Lists -->
+<h3>Skills</h3>
+<div class="row">
+	<div class="6u 12u$(small)">
+ 
+ <h4>Skills</h4>
+		<ul class="alt">
+			<li>Literature Reviews</li>
+			<li>Study Recruitment and Enrollment</li>
+			<li>Institutional Review Board</li>
+			<li>Data Cleaning</li>
+			<li>Data Analysis /li>
+			<li>Poster Presentation</li>
+			<li>Oral Presentation</li>
+		</ul>
+
+<h4>Tools</h4>
+		<ul class="alt">
+			<li>Microsoft Office</li>
+			<li>Github</li>
+			<li>Gitlab</li>
+			<li>R</li>
+			<li>Python</li>
+			<li>Tableau</li>
+			<li>RedCap</li>
+			<li>Natural Language Processing (NLP)</li>
+			<li>EPIC</li>
+		</ul>
+  
+ <div class="row">
+	<div class="6u 12u$(small)">
+
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h1>Current Projects</h1>
+		</header>
+		
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+.panel {
+  padding: 0 18px;
+  background-color: purple;
+  display: none;
+  overflow: hidden;
+}
+<button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
+<button class="accordion">Section 2</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
+<button class="accordion">Section 3</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
+<!-- Buttons -->
+<ul class="actions" style="display:flex; justify-content:center; gap:15px; list-style:none; padding:0; margin:20px 0;">
+	<li><a href="https://github.com/taoduol" class="button special">Github</a></li>
+	<li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=theresa+oduol&sort=date" class="button special">PubMed</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 		<h3>Sem turpis amet semper</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
