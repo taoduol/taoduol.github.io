@@ -52,7 +52,6 @@ order: 1
 	<li><a href="https://www.linkedin.com/in/theresa-oduol-8babbb192/" class="button special">LinkedIn</a></li>
 	<li><a href="https://github.com/taoduol" class="button special">Github</a></li>
 	<li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=theresa+oduol&sort=date" class="button special">PubMed</a></li>
-	<li><a href="assets/files/TheresaOduol_CV.pdf" class="button icon fa-download" download>CV</a></li>
 </ul>
 
 
