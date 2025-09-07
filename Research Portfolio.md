@@ -112,8 +112,7 @@ order: 2
       <h2>Current Projects</h2>
     </header>
     <div class="row">
-<div class="accordion-container" style="display:flex; flex-direction:column; align-items:center; max-width:800px; margin:0 auto;">
-
+<div class="accordion-container">
   <div class="accordion">
 
     <!-- Project 1 -->
@@ -149,16 +148,29 @@ order: 2
   </div>
 
   <!-- Buttons -->
-  <ul class="actions" style="display:flex; justify-content:center; gap:15px; list-style:none; padding:0; margin:20px 0;">
+  <ul class="actions">
     <li><a href="https://github.com/taoduol" class="button special">Github</a></li>
     <li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=theresa+oduol&sort=date" class="button special">PubMed</a></li>
   </ul>
-
 </div>
 
 <style>
-.accordion-item {
+/* Center accordion container */
+.accordion-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Make accordion stretch within its container */
+.accordion {
   width: 100%;
+}
+
+/* Accordion Item */
+.accordion-item {
   border-bottom: 1px solid #ddd;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -173,22 +185,22 @@ order: 2
   font-size: 1.1em;
   font-weight: bold;
   background: #9b59b6; /* Light purple */
-  color: #fff; /* White text */
+  color: #fff;
   border: none;
   outline: none;
   cursor: pointer;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-family: inherit; /* Matches page font */
+  font-family: inherit;
   transition: background 0.3s ease;
 }
 
 .accordion-header:hover {
-  background: #8e44ad; /* Slightly darker on hover */
+  background: #8e44ad;
 }
 
-/* Arrow rotation */
+/* Arrow */
 .accordion-header .arrow {
   transition: transform 0.3s ease;
 }
@@ -197,7 +209,7 @@ order: 2
 .accordion-content {
   display: none;
   padding: 15px 20px;
-  background: #f3e6fa; /* Very light purple background */
+  background: #5a3070; /* Very light purple */
   font-size: 0.95em;
   line-height: 1.5;
   color: #000;
@@ -207,6 +219,16 @@ order: 2
 
 .accordion-content p {
   margin: 0;
+}
+
+/* Buttons Centered */
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
 }
 </style>
 
@@ -235,7 +257,6 @@ document.querySelectorAll(".accordion-header").forEach(button => {
   });
 });
 </script>
-
 
 
 
