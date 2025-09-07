@@ -62,34 +62,12 @@ order: 5
   </ul>
 </div>
 </section>
-<!-- Form -->
-<h3>Form</h3>
-
-<form method="post" action="#">
-	<div class="row uniform">
-		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-		</div>
-		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-		</div>
-		
-		<!-- Break -->
-		<div class="12u$">
-			<ul class="actions">
-				<li><input type="submit" value="Subscribe" class="special" /></li>
-				<li><input type="reset" value="Reset" /></li>
-			</ul>
-		</div>
-	</div>
-</form>
 
 <section/>
- </header>
 	<h4>Have suggestions for additional resources? I’d love to hear from you! Please email me.</h4>     
 
                 <ul class="actions">
                     <li><a href="mailto:taoduol@outlook.com" class="button">Contact Me</a></li>
                 </ul>
             </div>
-        </section>
+      
