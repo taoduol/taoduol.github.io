@@ -64,8 +64,10 @@ order: 5
 </section>
 
 <section/>
+	<section id="Contact Me">
+	  <div class="inner">
 	<h4>Have suggestions for additional resources? I’d love to hear from you! Please email me.</h4>     
-
+    </header>
                 <ul class="actions">
                     <li><a href="mailto:taoduol@outlook.com" class="button">Contact Me</a></li>
                 </ul>
