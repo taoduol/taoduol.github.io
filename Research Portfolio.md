@@ -18,8 +18,12 @@ order: 2
 		</header>
 
 <!-- Content -->
-<h2 id="content">Research Interests</h2>
-	   </header>
+<section id="Research Interests">
+  <div class="inner">
+    <header class="major">
+      <h2>Research Interests</h2>
+    </header>
+	  
 	<h3>Pharmacoequity</h3>
 <p>I explore the quality of evidence underlying health inequities, the risks tied to substandard and falsified medicines, and the financial challenges patients face in accessing treatment. My work aims to highlight gaps and opportunities in how medicines and care outcomes are experienced across populations. Pharmacoequity, a term coined by Dr. Utibe Essien, advocates for the ideal that all individuals—regardless of race, ethnicity, or socioeconomic background—should have access to the highest quality treatment available.</p>
 	<h3>Bridging Health Services Research and Health Informatics</h3>
@@ -119,7 +123,7 @@ order: 2
     <!-- Project 1 -->
     <div class="accordion-item">
       <button class="accordion-header">
-        Missing Race and Ethnicity Data in Medicaid <span class="arrow">▼</span>
+        Missing Race and Ethnicity Data in Medicaid <span class="arrow"> ▼</span>
       </button>
       <div class="accordion-content">
         <p>This study seeks to characterize the proportion of missing race and ethnicity data is Medicaid T-MSIS Analytic Files between 2016-2023.</p>
@@ -130,7 +134,7 @@ order: 2
     <!-- Project 2 -->
     <div class="accordion-item">
       <button class="accordion-header">
-        Commercial Payer Prices for Cancer Drugs  <span class="arrow">▼</span>
+        Commercial Payer Prices for Cancer Drugs  <span class="arrow"> ▼</span>
       </button>
       <div class="accordion-content">
         <p>We are investigating commercial payer prices for oncology medicines, specifically assessing whether differences exist between prices at National Cancer Institute–designated centers and those at local hospital competitors across the United States.</p>
@@ -140,7 +144,7 @@ order: 2
     <!-- Project 3 -->
     <div class="accordion-item">
       <button class="accordion-header">
-        Caregiver Documentation in the EHR <span class="arrow">▼</span>
+        Caregiver Documentation in the EHR <span class="arrow"> ▼</span>
       </button>
       <div class="accordion-content">
         <p>In accordance with the CARE Act, which requires hospitals to identify and document family caregivers for hospitalized patients in the electronic health record (EHR), we are conducting a chart review and applying natural language processing (NLP) techniques to examine how caregiver documentation is captured and recorded in EHRs.</p>
