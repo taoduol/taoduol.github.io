@@ -118,30 +118,31 @@ order: 2
     <!-- Project 1 -->
     <div class="accordion-item">
       <button class="accordion-header">
-        RESCO Initiative <span class="arrow">▼</span>
+        Missing Race and Ethnicity Data in Medicaid <span class="arrow">▼</span>
       </button>
       <div class="accordion-content">
-        <p>RESCO is a collaborative effort designed to address hospital-based health inequities and care delivery gaps. By transforming emerging evidence into healthcare systems, RESCO seeks to ensure equitable access, improve efficiency, and integrate solutions into standard of care.</p>
+        <p>This study seeks to characterize the proportion of missing race and ethnicity data is Medicaid T-MSIS Analytic Files between 2016-2023.</p>
+		 <p>This work is led with Dr. C. Andrew Basham</p>
       </div>
     </div>
 
     <!-- Project 2 -->
     <div class="accordion-item">
       <button class="accordion-header">
-        Substandard Medicines Project <span class="arrow">▼</span>
+        Commercial Payer Prices for PD-1 and PD-L-1 Inhibitors <span class="arrow">▼</span>
       </button>
       <div class="accordion-content">
-        <p>This initiative focuses on addressing the growing threat of substandard medicines, particularly in the wake of unauthorized online pharmacies. The project brings together researchers, regulators, and government partners to explore collaboration, research, and innovation to keep patients safe.</p>
+        <p>We are investigating commercial payer prices for oncology medicines, specifically assessing whether differences exist between prices at National Cancer Institute–designated centers and those at local hospital competitors across the United States.</p>
       </div>
     </div>
 
     <!-- Project 3 -->
     <div class="accordion-item">
       <button class="accordion-header">
-        Health Equity Innovation Pilots <span class="arrow">▼</span>
+        Caregiver Documentation in the EHR <span class="arrow">▼</span>
       </button>
       <div class="accordion-content">
-        <p>Building on institutional pilot projects, this work explores models for advancing health equity at the systems level, testing practical solutions that inform care delivery, patient safety, and policy development.</p>
+        <p>In accordance with the CARE Act, which requires hospitals to identify and document family caregivers for hospitalized patients in the electronic health record (EHR), we are conducting a chart review and applying natural language processing (NLP) techniques to examine how caregiver documentation is captured and recorded in EHRs.</p>
       </div>
     </div>
 
