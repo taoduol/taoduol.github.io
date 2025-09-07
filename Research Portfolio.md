@@ -11,13 +11,20 @@ order: 2
 <div id="main" class="alt">
 
 <!-- One -->
+#one {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center;     /* centers vertically */
+  height: 100vh;           /* makes the section full viewport height */
+  text-align: center;      /* ensures text inside is centered */
+  flex-direction: column;  /* stacks elements vertically */
+}
 <section id="one">
-  <div class="inner" style="text-align: center;">
+  <div class="inner">
     <header class="major">
       <h1>Research Portfolio</h1>
     </header>
   </div>
-</section>
 
 <!-- Content -->
 <section id="Research Interests">
