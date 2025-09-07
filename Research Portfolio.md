@@ -112,98 +112,129 @@ order: 2
       <h2>Current Projects</h2>
     </header>
     <div class="row">
+<div class="accordion-container" style="display:flex; flex-direction:column; align-items:center; max-width:800px; margin:0 auto;">
 
-    <div class="accordion">
+  <div class="accordion">
 
-      <!-- Project 1 -->
-      <div class="accordion-item">
-        <button class="accordion-header">RESCO Initiative</button>
-        <div class="accordion-content">
-          <p>RESCO is a collaborative effort designed to address hospital-based health inequities and care delivery gaps. By transforming emerging evidence into healthcare systems, RESCO seeks to ensure equitable access, improve efficiency, and integrate solutions into standard of care.</p>
-        </div>
+    <!-- Project 1 -->
+    <div class="accordion-item">
+      <button class="accordion-header">
+        RESCO Initiative <span class="arrow">▼</span>
+      </button>
+      <div class="accordion-content">
+        <p>RESCO is a collaborative effort designed to address hospital-based health inequities and care delivery gaps. By transforming emerging evidence into healthcare systems, RESCO seeks to ensure equitable access, improve efficiency, and integrate solutions into standard of care.</p>
       </div>
-
-      <!-- Project 2 -->
-      <div class="accordion-item">
-        <button class="accordion-header">Substandard Medicines Project</button>
-        <div class="accordion-content">
-          <p>This initiative focuses on addressing the growing threat of substandard medicines, particularly in the wake of unauthorized online pharmacies. The project brings together researchers, regulators, and government partners to explore collaboration, research, and innovation to keep patients safe.</p>
-        </div>
-      </div>
-
-      <!-- Project 3 -->
-      <div class="accordion-item">
-        <button class="accordion-header">Health Equity Innovation Pilots</button>
-        <div class="accordion-content">
-          <p>Building on institutional pilot projects, this work explores models for advancing health equity at the systems level, testing practical solutions that inform care delivery, patient safety, and policy development.</p>
-        </div>
-      </div>
-
     </div>
-  </div>
-</section>
 
-<!-- Accordion Styles -->
+    <!-- Project 2 -->
+    <div class="accordion-item">
+      <button class="accordion-header">
+        Substandard Medicines Project <span class="arrow">▼</span>
+      </button>
+      <div class="accordion-content">
+        <p>This initiative focuses on addressing the growing threat of substandard medicines, particularly in the wake of unauthorized online pharmacies. The project brings together researchers, regulators, and government partners to explore collaboration, research, and innovation to keep patients safe.</p>
+      </div>
+    </div>
+
+    <!-- Project 3 -->
+    <div class="accordion-item">
+      <button class="accordion-header">
+        Health Equity Innovation Pilots <span class="arrow">▼</span>
+      </button>
+      <div class="accordion-content">
+        <p>Building on institutional pilot projects, this work explores models for advancing health equity at the systems level, testing practical solutions that inform care delivery, patient safety, and policy development.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Buttons -->
+  <ul class="actions" style="display:flex; justify-content:center; gap:15px; list-style:none; padding:0; margin:20px 0;">
+    <li><a href="https://github.com/taoduol" class="button special">Github</a></li>
+    <li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=theresa+oduol&sort=date" class="button special">PubMed</a></li>
+  </ul>
+
+</div>
+
 <style>
 .accordion-item {
+  width: 100%;
   border-bottom: 1px solid #ddd;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  overflow: hidden;
 }
 
+/* Accordion Header */
 .accordion-header {
   width: 100%;
-  padding: 15px;
+  padding: 15px 20px;
   text-align: left;
   font-size: 1.1em;
   font-weight: bold;
-  background: #f9f9f9;
+  background: #9b59b6; /* Light purple */
+  color: #fff; /* White text */
   border: none;
   outline: none;
   cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: inherit; /* Matches page font */
   transition: background 0.3s ease;
 }
 
 .accordion-header:hover {
-  background: #eee;
+  background: #8e44ad; /* Slightly darker on hover */
 }
 
+/* Arrow rotation */
+.accordion-header .arrow {
+  transition: transform 0.3s ease;
+}
+
+/* Accordion Content */
 .accordion-content {
   display: none;
-  padding: 15px;
-  background: #fff;
+  padding: 15px 20px;
+  background: #f3e6fa; /* Very light purple background */
   font-size: 0.95em;
   line-height: 1.5;
+  color: #000;
+  border-top: 1px solid #ddd;
+  border-radius: 0 0 5px 5px;
 }
+
 .accordion-content p {
   margin: 0;
 }
 </style>
 
-<!-- Accordion Script -->
 <script>
 document.querySelectorAll(".accordion-header").forEach(button => {
   button.addEventListener("click", () => {
     const content = button.nextElementSibling;
+    const arrow = button.querySelector(".arrow");
 
     // Close other accordions
     document.querySelectorAll(".accordion-content").forEach(item => {
       if (item !== content) {
         item.style.display = "none";
+        item.previousElementSibling.querySelector(".arrow").textContent = "▼";
       }
     });
 
     // Toggle current accordion
-    content.style.display = content.style.display === "block" ? "none" : "block";
+    if (content.style.display === "block") {
+      content.style.display = "none";
+      arrow.textContent = "▼";
+    } else {
+      content.style.display = "block";
+      arrow.textContent = "▲";
+    }
   });
 });
 </script>
-
-<!-- Buttons -->
-<ul class="actions" style="display:flex; justify-content:center; gap:15px; list-style:none; padding:0; margin:20px 0;">
-	<li><a href="https://github.com/taoduol" class="button special">Github</a></li>
-	<li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=theresa+oduol&sort=date" class="button special">PubMed</a></li>
-</ul>
-
-
 
 
 
