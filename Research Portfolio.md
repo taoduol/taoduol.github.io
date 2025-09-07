@@ -171,7 +171,7 @@ order: 2
 
 /* Accordion Item */
 .accordion-item {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 0.5px solid #ddd;
   margin-bottom: 10px;
   border-radius: 5px;
   overflow: hidden;
@@ -179,12 +179,12 @@ order: 2
 
 /* Accordion Header */
 .accordion-header {
-  width: 90%;
+  width: 100%;
   padding: 15px 20px;
   text-align: center;
   font-size: 0.9em;
   font-weight: bold;
-  background: #230252; /* Light purple */
+  background: #4f3e69; /* Light purple */
   color: #fff;
   border: none;
   outline: none;
@@ -209,7 +209,7 @@ order: 2
 .accordion-content {
   display: none;
   padding: 15px 20px;
-  background: #5a3070; /* Very light purple */
+  background: #ece4f7; /* Very light purple */
   font-size: 0.95em;
   line-height: 1.5;
   color: #000;
