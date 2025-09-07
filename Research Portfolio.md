@@ -32,7 +32,7 @@ order: 2
 	<div class="6u 12u$(small)">
 <!-- Lists -->
 <!-- Lists -->
-<h2>Research Skills</h2>
+
 <div class="row">
 
 <section id="skills">
@@ -108,70 +108,13 @@ order: 2
   </div>
 </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
-  <!-- Left Column -->
-  <div class="6u 12u$(small)">
-    <h4>Skills</h4>
-    <ul class="alt">
-      <li>Literature Reviews</li>
-      <li>Study Recruitment and Enrollment</li>
-      <li>Institutional Review Board</li>
-      <li>Data Cleaning and Preprocessing</li>
-      <li>Data Analysis</li>
-      <li>Poster Presentation</li>
-      <li>Oral Presentation</li>
-	  <li>Grant Writing</li>
-	 <li>Academic Writing</li>
-	  <li>Chart Review</li>
-    </ul>
-  </div>
-
-  <!-- Right Column -->
-  <div class="6u 12u$(small)">
-    <h4>Tools</h4>
-    <ul class="alt">
-      <li>Microsoft Office</li>
-      <li>Github</li>
-      <li>Gitlab</li>
-      <li>R</li>
-      <li>Python</li>
-      <li>Tableau</li>
-      <li>RedCap</li>
-      <li>Natural Language Processing (NLP)</li>
-      <li>EPIC</li>
-	  <li>Aetion</li>
-    </ul>
-  </div>
-</div>
-  
- <div class="row">
-	<section id="projects">
+<section id="skills">
   <div class="inner">
     <header class="major">
-      <h1>Current Projects</h1>
+      <h2>Current Projects</h2>
     </header>
+    <div class="row">
 
     <div class="accordion">
 
@@ -301,7 +244,7 @@ document.querySelectorAll(".accordion-header").forEach(button => {
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
+
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
