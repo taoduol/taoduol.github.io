@@ -19,6 +19,7 @@ order: 2
 
 <!-- Content -->
 <h2 id="content">Research Interests</h2>
+	   </header>
 	<h3>Pharmacoequity</h3>
 <p>I explore the quality of evidence underlying health inequities, the risks tied to substandard and falsified medicines, and the financial challenges patients face in accessing treatment. My work aims to highlight gaps and opportunities in how medicines and care outcomes are experienced across populations. Pharmacoequity, a term coined by Dr. Utibe Essien, advocates for the ideal that all individuals—regardless of race, ethnicity, or socioeconomic background—should have access to the highest quality treatment available.</p>
 	<h3>Bridging Health Services Research and Health Informatics</h3>
