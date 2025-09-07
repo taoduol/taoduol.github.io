@@ -190,6 +190,7 @@ order: 2
 .accordion-header {
   width: 100%;
   padding: 15px 20px;
+  text-transform: none;
   text-align: center;
   font-size: 0.9em;
   font-weight: bold;
