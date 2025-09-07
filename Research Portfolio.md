@@ -34,12 +34,12 @@ order: 2
 <!-- Lists -->
 
 <div class="row">
-
 <section id="skills">
   <div class="inner">
     <header class="major">
       <h2>Skills & Tools</h2>
     </header>
+
     <div class="row">
       <!-- Quantitative & Analytic Methods -->
       <div class="4u 12u$(small)">
@@ -48,8 +48,8 @@ order: 2
           <li>Statistical Modeling: regression, survival analysis, difference-in-differences, interrupted time series</li>
           <li>Comparative Effectiveness Research (CER)</li>
           <li>Pharmacoepidemiology Methods</li>
-          <li>Health Economics and Payer Price Analysis (Medicare, Medicaid, 340B, Commercial)</li>
-          <li>Program Evaluation using Mixed Methods (Surveys and Focus Groups)</li>
+          <li>Health Economics and Payer Price Analysis</li>
+          <li>Program Evaluation using Mixed Methods</li>
           <li>Clinical Trial Implementation and Pragmatic Trial Design</li>
           <li>Natural Language Processing (EHR Data and Claims Linkage)</li>
         </ul>
@@ -61,7 +61,7 @@ order: 2
         <ul class="alt">
           <li>Programming: R, Python (Basic), Aetion Evidence Platform</li>
           <li>Data Visualization: R, Tableau, Excel, PowerPoint</li>
-          <li>Data Management: Medicare and Medicaid claims, EHR, REDCap, SQL, CommCare</li>
+          <li>Data Management: Medicare/Medicaid claims, EHR, REDCap, SQL, CommCare</li>
           <li>Reproducible Science: GitHub, GitLab, Open Science Framework</li>
           <li>Reference Management: EndNote, Zotero</li>
         </ul>
@@ -71,11 +71,11 @@ order: 2
       <div class="4u 12u$(small)">
         <h3>Health Policy & Systems Research</h3>
         <ul class="alt">
-          <li>U.S. and International Drug Regulation Analysis (FDA, EMA, Health Canada, TGA)</li>
+          <li>Drug Regulation Analysis: FDA, EMA, Health Canada, TGA</li>
           <li>Policy Evaluation</li>
           <li>Equity-centered Frameworks</li>
-          <li>Quality Measurement in Healthcare Delivery (Race and Ethnicity Data Integrity, Reporting Standards)</li>
-          <li>Global Health Policy Analysis (ESG/CSR, occupational hazards in LMICs)</li>
+          <li>Quality Measurement in Healthcare Delivery</li>
+          <li>Global Health Policy Analysis: ESG/CSR, occupational hazards</li>
         </ul>
       </div>
     </div>
@@ -88,7 +88,7 @@ order: 2
           <li>IRB Protocols and Research Compliance</li>
           <li>Grant Writing</li>
           <li>Budget Tracking and Resource Allocation</li>
-          <li>Multi-stakeholder Project Management (Academic, Clinical, Nonprofit, Global)</li>
+          <li>Multi-stakeholder Project Management</li>
           <li>Supervising and Mentoring Undergraduate Fellows and Interns</li>
         </ul>
       </div>
@@ -105,6 +105,7 @@ order: 2
         </ul>
       </div>
     </div>
+
   </div>
 </section>
 
