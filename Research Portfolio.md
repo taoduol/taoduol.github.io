@@ -26,12 +26,111 @@ order: 2
  	<h3>Health Equity Innovation</h3>
   <p>Exploring institutional strategies for advancing equitable healthcare solutions, drawing on my experience with health equity innovation pilots. My work with RESCO focuses on accelerating systems-level models that improve the access, quality, and equity of care.</p>
  
+
+
 <div class="row">
 	<div class="6u 12u$(small)">
 <!-- Lists -->
 <!-- Lists -->
-<h3>Skills</h3>
+<h2>Research Skills</h2>
 <div class="row">
+
+<section id="skills">
+  <div class="inner">
+    <header class="major">
+      <h2>Skills & Tools</h2>
+    </header>
+    <div class="row">
+      <!-- Quantitative & Analytic Methods -->
+      <div class="4u 12u$(small)">
+        <h3>Quantitative & Analytic Methods</h3>
+        <ul class="alt">
+          <li>Statistical Modeling: regression, survival analysis, difference-in-differences, interrupted time series</li>
+          <li>Comparative Effectiveness Research (CER)</li>
+          <li>Pharmacoepidemiology Methods</li>
+          <li>Health Economics and Payer Price Analysis (Medicare, Medicaid, 340B, Commercial)</li>
+          <li>Program Evaluation using Mixed Methods (Surveys and Focus Groups)</li>
+          <li>Clinical Trial Implementation and Pragmatic Trial Design</li>
+          <li>Natural Language Processing (EHR Data and Claims Linkage)</li>
+        </ul>
+      </div>
+
+      <!-- Data & Technical Tools -->
+      <div class="4u 12u$(small)">
+        <h3>Data & Technical Tools</h3>
+        <ul class="alt">
+          <li>Programming: R, Python (Basic), Aetion Evidence Platform</li>
+          <li>Data Visualization: R, Tableau, Excel, PowerPoint</li>
+          <li>Data Management: Medicare and Medicaid claims, EHR, REDCap, SQL, CommCare</li>
+          <li>Reproducible Science: GitHub, GitLab, Open Science Framework</li>
+          <li>Reference Management: EndNote, Zotero</li>
+        </ul>
+      </div>
+
+      <!-- Health Policy & Systems Research -->
+      <div class="4u 12u$(small)">
+        <h3>Health Policy & Systems Research</h3>
+        <ul class="alt">
+          <li>U.S. and International Drug Regulation Analysis (FDA, EMA, Health Canada, TGA)</li>
+          <li>Policy Evaluation</li>
+          <li>Equity-centered Frameworks</li>
+          <li>Quality Measurement in Healthcare Delivery (Race and Ethnicity Data Integrity, Reporting Standards)</li>
+          <li>Global Health Policy Analysis (ESG/CSR, occupational hazards in LMICs)</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row">
+      <!-- Research Infrastructure & Project Management -->
+      <div class="6u 12u$(small)">
+        <h3>Research Infrastructure & Project Management</h3>
+        <ul class="alt">
+          <li>IRB Protocols and Research Compliance</li>
+          <li>Grant Writing</li>
+          <li>Budget Tracking and Resource Allocation</li>
+          <li>Multi-stakeholder Project Management (Academic, Clinical, Nonprofit, Global)</li>
+          <li>Supervising and Mentoring Undergraduate Fellows and Interns</li>
+        </ul>
+      </div>
+
+      <!-- Communication & Dissemination -->
+      <div class="6u 12u$(small)">
+        <h3>Communication & Dissemination</h3>
+        <ul class="alt">
+          <li>Peer-reviewed Publications</li>
+          <li>Conference Presentations: Oral and Poster</li>
+          <li>Policy Briefs and Academic Manuscripts</li>
+          <li>Teaching: Graduate-level and Undergraduate courses</li>
+          <li>Data-to-Policy Translation</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
   <!-- Left Column -->
   <div class="6u 12u$(small)">
     <h4>Skills</h4>
@@ -39,10 +138,12 @@ order: 2
       <li>Literature Reviews</li>
       <li>Study Recruitment and Enrollment</li>
       <li>Institutional Review Board</li>
-      <li>Data Cleaning</li>
+      <li>Data Cleaning and Preprocessing</li>
       <li>Data Analysis</li>
       <li>Poster Presentation</li>
       <li>Oral Presentation</li>
+	  <li>Grant Writing</li>
+	 <li>Academic Writing</li>
 	  <li>Chart Review</li>
     </ul>
   </div>
@@ -60,6 +161,7 @@ order: 2
       <li>RedCap</li>
       <li>Natural Language Processing (NLP)</li>
       <li>EPIC</li>
+	  <li>Aetion</li>
     </ul>
   </div>
 </div>
