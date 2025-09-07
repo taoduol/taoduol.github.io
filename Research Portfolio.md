@@ -179,12 +179,12 @@ order: 2
 
 /* Accordion Header */
 .accordion-header {
-  width: 100%;
+  width: 90%;
   padding: 15px 20px;
-  text-align: left;
-  font-size: 1.1em;
+  text-align: center;
+  font-size: 0.9em;
   font-weight: bold;
-  background: #9b59b6; /* Light purple */
+  background: #230252; /* Light purple */
   color: #fff;
   border: none;
   outline: none;
@@ -192,12 +192,12 @@ order: 2
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-family: inherit;
+  font-family: sans-serif;
   transition: background 0.3s ease;
 }
 
 .accordion-header:hover {
-  background: #8e44ad;
+  background: #230140;
 }
 
 /* Arrow */
