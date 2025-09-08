@@ -59,7 +59,7 @@ order: 3
 <p>Our ultimate goal is to elevate others, offer advice, and inspire a culture of service in our mentees. We believe that by gaining practical experience and sharing a wealth of open resources to support students in crafting their professional narrative, students will not only find their own paths but also be equipped to guide others on theirs.</p>
 
 				<ul class="actions">
-					<li><a href="https://www.alandoexchange.com" class="button">Learn More</a></li>
+					<li><a href="https://www.alandoexchange.org" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
