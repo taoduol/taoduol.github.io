@@ -59,7 +59,7 @@ order: 3
 <p>Our ultimate goal is to elevate others, offer advice, and inspire a culture of service in our mentees. We believe that by gaining practical experience and sharing a wealth of open resources to support students in crafting their professional narrative, students will not only find their own paths but also be equipped to guide others on theirs.</p>
 
 				<ul class="actions">
-					<li><a href="#" class="button">Learn More</a></li>
+					<li><a href="https://www.alandoexchange.com" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -87,7 +87,7 @@ order: 3
 
 				<ul class="actions">
 					<li><a href="https://fakemedicinenomore.org/" class="button">BESAFE by JHU</a></li>
-	  <li><a href="https://www.who.int/tools/substandard-and-falsified-medical-products-training-toolkit" class="button">WHO Training Toolkit on Substandard and Falsified Medical Products (SFMP)</a></li>
+	  <li><a href="https://www.who.int/tools/substandard-and-falsified-medical-products-training-toolkit" class="button">WHO Training Toolkit on SF Medical Products</a></li>
 	 <li><a href="https://www.dea.gov/alert/dea-issues-warning-about-illegal-online-pharmacies" class="button">DEA Public Safety Alert</a></li>
   
   <li><a href="https://www.fda.gov/drugs/buying-using-medicine-safely/counterfeit-medicine#:~:text=Counterfeit%20(fake%20or%20falsified)%20medicines,the%20safest%20in%20the%20world." class="button">FDA Article on Counterfeit Medicines</a></li>
