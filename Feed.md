@@ -1,3 +1,15 @@
+---
+layout: page
+title: Feed
+landing-title: 'Feed'
+nav-menu: true
+description: null
+image: null
+author: null
+show_tile: true
+order: 5
+---
+
 # 🚀 My Professional Feed
 
 <!-- Feed Container -->
