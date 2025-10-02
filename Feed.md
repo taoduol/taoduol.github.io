@@ -12,7 +12,6 @@ order: 5
 
 # Feed
 
-# 🧾 My LinkedIn-Style Feed
 
 <!-- Feed Container -->
 <div style="max-width: 600px; margin: auto; font-family: Arial, sans-serif; color: black;">
