@@ -10,7 +10,7 @@ show_tile: true
 order: 5
 ---
 
-# 🚀 My Professional Feed
+# Feed
 
 <!-- Feed Container -->
 <div style="max-width: 600px; margin: auto; font-family: Arial, sans-serif;">
@@ -21,7 +21,7 @@ order: 5
       <img src="https://via.placeholder.com/50" style="border-radius: 50%; margin-right: 10px;">
       <div>
         <strong>Jane Doe</strong><br>
-        <span style="color: gray; font-size: 12px;">Software Engineer • 2h ago</span>
+        <span style="color: gray; font-size: 12px;">Health Policy Immersion Program • September 20, 2025</span>
       </div>
     </div>
     <p>Excited to share that I’ve joined XYZ Corp as a Full Stack Developer! 🚀</p>
