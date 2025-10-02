@@ -49,10 +49,10 @@ order: 2
       <div class="4u 12u$(small)">
         <h3>Quantitative & Analytic Methods</h3>
         <ul class="alt">
-          <li>Statistical Modeling: regression, survival analysis, difference-in-differences, interrupted time series</li>
+          <li>Statistical Modeling: regression, sensitivity analysis</li>
           <li>Comparative Effectiveness Research (CER)</li>
           <li>Pharmacoepidemiology Methods</li>
-          <li>Health Economics and Payer Price Analysis</li>
+          <li>Payer Price Analysis</li>
           <li>Program Evaluation using Mixed Methods</li>
           <li>Clinical Trial Implementation and Pragmatic Trial Design</li>
           <li>Natural Language Processing (EHR Data and Claims Linkage)</li>
@@ -76,7 +76,6 @@ order: 2
         <h3>Health Policy & Systems Research</h3>
         <ul class="alt">
           <li>Drug Regulation Analysis: FDA, EMA, Health Canada, TGA</li>
-          <li>Policy Evaluation</li>
           <li>Equity-centered Frameworks</li>
           <li>Quality Measurement in Healthcare Delivery</li>
           <li>Global Health Policy Analysis: ESG/CSR, occupational hazards</li>
@@ -91,7 +90,7 @@ order: 2
         <ul class="alt">
           <li>IRB Protocols and Research Compliance</li>
           <li>Grant Writing</li>
-          <li>Budget Tracking and Resource Allocation</li>
+          <li>Budget Management and Resource Allocation</li>
           <li>Multi-stakeholder Project Management</li>
           <li>Supervising and Mentoring Undergraduate Fellows and Interns</li>
         </ul>
@@ -103,8 +102,8 @@ order: 2
         <ul class="alt">
           <li>Peer-reviewed Publications</li>
           <li>Conference Presentations: Oral and Poster</li>
-          <li>Policy Briefs and Academic Manuscripts</li>
-          <li>Teaching: Graduate-level and Undergraduate courses</li>
+          <li>Academic Manuscripts</li>
+          <li>Teaching Assistance: Graduate-level and Undergraduate courses</li>
           <li>Data-to-Policy Translation</li>
         </ul>
       </div>
