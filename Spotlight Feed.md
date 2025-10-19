@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Feed
-landing-title: 'Feed'
+title: Spotlight Feed
+landing-title: 'Spotlight Feed'
 nav-menu: true
 description: null
 image: null
@@ -10,7 +10,7 @@ show_tile: true
 order: 5
 ---
 
-# Feed
+# Spotlight Feed
 
 
 <!-- Feed Container -->
