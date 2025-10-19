@@ -53,8 +53,6 @@ order: 5
 <p style="color: black;"> This conference provided a space blessed with so many successful and hardworking Black women, leaders, and changemakers. It was a refreshing, safe space where we could come together, connect, and uplift each other.</p>
 
 <p style="color: black;"> I’m already looking forward to attending future conferences and encourage my Black sisters in healthcare to sign up—you don’t want to miss out! </p>
-<a href="https://twc.edu/programs/health-policy-immersion-program" style="color: #0073b1;">Learn more about this program</a> 
-
 
 
     <!-- Icons -->
