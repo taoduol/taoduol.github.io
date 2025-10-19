@@ -36,6 +36,22 @@ order: 5
       </div>
     </div>
        <!-- 🔻 REPLACE this URL with your image -->
+	 
+	  <div class="image-container" style="display: flex; gap: 10px; width: 100%;">
+      <span class="image fit" style="flex: 1;">
+        <img src="{% link assets/images/hpim2.jpeg %}" alt="" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" />
+      </span>
+      <span class="image fit" style="flex: 1;">
+        <img src="{% link assets/images/IMG_5182.jpeg %}" alt="" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" />
+      </span>
+    </div>
+    
+  </div>
+</div>
+	   
+	   
+	   
+	   
 	   <div class="image-container">
     <span class="image fit">
         <img src="{% link assets/images/hpim2.jpeg %}" alt="" class="side-by-side-image" />
@@ -44,12 +60,6 @@ order: 5
         <img src="{% link assets/images/IMG_5182.jpeg %}" alt="" class="side-by-side-image" />
     </span>
 </div>
-<div class="box alt">
-<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/hpim2.jpeg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/IMG_5182.jpeg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<!-- Break -->
 
 <p style="color: black;"> In September, I had the privilege of attending The Washington Center’s Health Policy Immersion Program. Throughout the program, our cohort had the opportunity to hear from leaders in health policy across academia, government, journalism, and think tanks. This experience brought together students and professionals from all over the country, and I’m grateful to have made lasting connections with amazing peers and new friends.</p>
 <p style="color: black;"> The program culminated with an insightful field trip to DC Medicaid, where we learned about the critical work being done to support our population’s health needs. A key theme that emerged in our discussions was the importance of adaptability in the face of a constantly evolving policy landscape. Resilience was highlighted as a central trait by every panelist.</p>
