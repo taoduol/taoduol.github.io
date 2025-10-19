@@ -13,6 +13,14 @@ order: 5
 # Spotlight Feed
 
 
+<section id="one">
+  <div class="inner" style="text-align:center;">
+    <header class="major">
+      <h1>Spotlight Feed</h1>
+    </header>
+  </div>
+</section>
+
 <!-- Feed Container -->
 <div style="max-width: 600px; margin: auto; font-family: Arial, sans-serif; color: black;">
 
