@@ -29,12 +29,12 @@ order: 3
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>RESCO</h3>
-					<h4>Research Evaluation for Systemic Care Optimization</h4>
+					<h3>RESCO-HE</h3>
+					<h4>Research Evaluation for Systemic Care Optimization and Health Equity</h4>
 				</header>
-				<p>The Research Evaluation for Systemic Care Optimization (RESCO) initiative is designed to build a collaborative community that addresses hospital-based health inequities and care delivery gaps by transforming emerging evidence into actionable change within healthcare systems. We apply systems thinking to align processes, resources, and stakeholders in ways that enhance efficiency, reduce costs, improve quality, and ensure equitable access to care. Spanning all specialties, RESCO develops models and solutions that can be integrated into standard practice, inform future guidelines, and accelerate the impact of emerging evidence to improve the way patients are served. </p>
-	<p>The premise of RESCO is to center equity—treating it with the same priority as safety—so that it becomes a guiding principle woven into every hospital decision.</p>
-   <p> RESCO is a multi-phase initiative currently in its early stages. More information will be available soon.</p>
+				<p>The Research Evaluation for Systemic Care Optimization and Health Equity (RESCO-HE) initiative is designed to build a collaborative community that addresses hospital-based health inequities and care delivery gaps by transforming emerging evidence into actionable change within healthcare systems. We apply systems thinking to align processes, resources, and stakeholders in ways that enhance efficiency, reduce costs, improve quality, and ensure equitable access to care. Spanning all specialties, RESCO-HE develops models and solutions that can be integrated into standard practice, inform future guidelines, and accelerate the impact of emerging evidence to improve the way patients are served. </p>
+	<p>The premise of RESCO-HE is to center equity—treating it with the same priority as safety—so that it becomes a guiding principle woven into every hospital decision.</p>
+   <p> RESCO-HE is a multi-phase initiative currently in its early stages. More information will be available soon.</p>
 
 				<ul class="actions">
 					<li><a href="#" class="button">Coming Soon!</a></li>
@@ -59,7 +59,7 @@ order: 3
 <p>Our ultimate goal is to elevate others, offer advice, and inspire a culture of service in our mentees. We believe that by gaining practical experience and sharing a wealth of open resources to support students in crafting their professional narrative, students will not only find their own paths but also be equipped to guide others on theirs.</p>
 
 				<ul class="actions">
-					<li><a href="https://www.alandoexchange.org" class="button">Learn More</a></li>
+					<li><a href="https://www.alandoexchange.org" target="_blank" rel="noopener noreferrer" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -87,13 +87,13 @@ order: 3
 
 				<ul class="actions">
 					<li><a href="https://fakemedicinenomore.org/" class="button">BESAFE by JHU</a></li>
-	  <li><a href="https://www.who.int/tools/substandard-and-falsified-medical-products-training-toolkit" class="button">WHO Training Toolkit on SF Medical Products</a></li>
-	 <li><a href="https://www.dea.gov/alert/dea-issues-warning-about-illegal-online-pharmacies" class="button">DEA Public Safety Alert</a></li>
+	  <li><a href="https://www.who.int/tools/substandard-and-falsified-medical-products-training-toolkit" target="_blank" rel="noopener noreferrer"class="button">WHO Training Toolkit on SF Medical Products</a></li>
+	 <li><a href="https://www.dea.gov/alert/dea-issues-warning-about-illegal-online-pharmacies" target="_blank" rel="noopener noreferrer" class="button">DEA Public Safety Alert</a></li>
   
-  <li><a href="https://www.fda.gov/drugs/buying-using-medicine-safely/counterfeit-medicine#:~:text=Counterfeit%20(fake%20or%20falsified)%20medicines,the%20safest%20in%20the%20world." class="button">FDA Article on Counterfeit Medicines</a></li>
+  <li><a href="https://www.fda.gov/drugs/buying-using-medicine-safely/counterfeit-medicine#:~:text=Counterfeit%20(fake%20or%20falsified)%20medicines,the%20safest%20in%20the%20world." target="_blank" rel="noopener noreferrer" class="button">FDA Article on Counterfeit Medicines</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 </section>
-https://www.who.int/tools/substandard-and-falsified-medical-products-training-toolkit
+
