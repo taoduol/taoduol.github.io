@@ -36,10 +36,16 @@ order: 5
       </div>
     </div>
        <!-- 🔻 REPLACE this URL with your image -->
-
-	   <span class="image fit"><img src="{% link assets/images/hpim2.jpeg %}" alt="" /></span>
-
 	   <div class="image-container">
+    <span class="image fit">
+        <img src="{% link assets/images/hpim2.jpeg %}" alt="" class="side-by-side-image" />
+    </span>
+    <span class="image fit">
+        <img src="{% link assets/images/IMG_5182.jpeg %}" alt="" class="side-by-side-image" />
+    </span>
+</div>
+
+<div class="image-container">
     <span class="image fit">
         <img src="{% link assets/images/hpim2.jpeg %}" alt="" class="side-by-side-image" />
     </span>
