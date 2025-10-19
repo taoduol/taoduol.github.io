@@ -36,7 +36,8 @@ order: 5
       </div>
     </div>
        <!-- 🔻 REPLACE this URL with your image -->
-      <img src="https://via.placeholder.com/50" alt="Jane Doe" style="border-radius: 50%; margin-right: 10px;">
+      <img src="assets/images/IMG_5182.jpeg" style="border-radius: 50%; margin-right: 10px;">
+      <img src="assets/images/IMG_5182.jpeg" style="border-radius: 50%; margin-right: 10px;">
     
     <p style="color: black;">In September, I had the privilege of attending The Washington Center’s Health Policy Immersion Program. Throughout the program, our cohort had the opportunity to hear from leaders in health policy across academia, government, journalism, and think tanks. This experience brought together students and professionals from all over the country, and I’m grateful to have made lasting connections with amazing peers and new friends.</p>
 
