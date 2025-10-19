@@ -46,7 +46,7 @@ order: 5
       </span>
     </div>
 
-<p style="color: black;"> In October, I had the privilege of attending the incredible 2025 NEXUS Conference hosted by the Association of Black Gastroenterologists and Hepatologists (ABGH). This was my second time attending, and I have to say (again!)—it’s hands down my favorite conference ever.</p>
+<p style="color: black;"> In October, I had the privilege of attending the incredible 2025 Nurturing Excellence and Unifying Sisters in Medicine (NEXUS) Conference hosted by the Association of Black Gastroenterologists and Hepatologists (ABGH). This was my second time attending, and I have to say (again!)—it’s hands down my favorite conference ever.</p>
 
 <p style="color: black;"> Focused on wellness and excellence among Black women, the weekend was filled with empowering sessions. We heard from leaders exploring topics like wellness for Black women, navigating career changes, managing finances, and channeling our inner resilience while also prioritizing self-care.</p>
 
