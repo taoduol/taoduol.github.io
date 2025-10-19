@@ -36,8 +36,10 @@ order: 5
       </div>
     </div>
        <!-- 🔻 REPLACE this URL with your image -->
-      <img src="assets/images/IMG_5182.jpeg" style="border-radius: 50%; margin-right: 10px;">
-      <img src="assets/images/IMG_5182.jpeg" style="border-radius: 50%; margin-right: 10px;">
+     <div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/IMG_5182.jpeg%}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+     
     
     <p style="color: black;">In September, I had the privilege of attending The Washington Center’s Health Policy Immersion Program. Throughout the program, our cohort had the opportunity to hear from leaders in health policy across academia, government, journalism, and think tanks. This experience brought together students and professionals from all over the country, and I’m grateful to have made lasting connections with amazing peers and new friends.</p>
 
