@@ -10,13 +10,19 @@ show_tile: true
 order: 5
 ---
 
-# Spotlight Feed
-
 
 <section id="one">
   <div class="inner" style="text-align:center;">
     <header class="major">
       <h1>Spotlight Feed</h1>
+    </header>
+  </div>
+</section>
+
+<section id="two">
+  <div class="inner" style="text-align:center;">
+    <header class="major">
+      <h3>Check out my feed for the latest updates and highlights from my work!</h3>
     </header>
   </div>
 </section>
@@ -29,14 +35,14 @@ order: 5
     
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
       
-      <!-- 🔻 REPLACE this URL with your image -->
-      <img src="https://via.placeholder.com/50" alt="Jane Doe" style="border-radius: 50%; margin-right: 10px;">
-      
+   
       <div>
         <strong style="color: black;">Jane Doe</strong><br>
         <span style="color: gray; font-size: 12px;">Health Policy Immersion Program • September 20, 2025</span>
       </div>
     </div>
+       <!-- 🔻 REPLACE this URL with your image -->
+      <img src="https://via.placeholder.com/50" alt="Jane Doe" style="border-radius: 50%; margin-right: 10px;">
     
     <p style="color: black;">Excited to share that I’ve joined XYZ Corp as a Full Stack Developer! 🚀</p>
 
