@@ -44,7 +44,7 @@ order: 5
         <img src="{% link assets/images/IMG_5182.jpeg %}" alt="" class="side-by-side-image" />
     </span>
 </div>
-
+<div class="box alt">
 <div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/hpim2.jpeg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/IMG_5182.jpeg %}" alt="" /></span></div>
