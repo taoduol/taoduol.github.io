@@ -32,18 +32,22 @@ order: 5
       
    
       <div>
-        <strong style="color: black;">Jane Doe</strong><br>
-        <span style="color: gray; font-size: 12px;">Health Policy Immersion Program • September 20, 2025</span>
+        <strong style="color: black;">Health Policy Immersion Program</strong><br>
+        <span style="color: gray; font-size: 12px;">Washington, DC • September 20, 2025</span>
       </div>
     </div>
        <!-- 🔻 REPLACE this URL with your image -->
       <img src="https://via.placeholder.com/50" alt="Jane Doe" style="border-radius: 50%; margin-right: 10px;">
     
-    <p style="color: black;">Excited to share that I’ve joined XYZ Corp as a Full Stack Developer! 🚀</p>
+    <p style="color: black;">In September, I had the privilege of attending The Washington Center’s Health Policy Immersion Program. Throughout the program, our cohort had the opportunity to hear from leaders in health policy across academia, government, journalism, and think tanks. This experience brought together students and professionals from all over the country, and I’m grateful to have made lasting connections with amazing peers and new friends.
+
+The program culminated with an insightful field trip to DC Medicaid, where we learned about the critical work being done to support our population’s health needs. A key theme that emerged in our discussions was the importance of adaptability in the face of a constantly evolving policy landscape. Resilience was highlighted as a central trait by every panelist.
+
+A heartfelt thank you to the organizers for making this incredible experience possible and to The Washington Center for creating spaces for immersive, shared learning.  </p>
 
     <!-- Icons -->
     <div style="border-top: 1px solid #eee; padding-top: 10px; font-size: 14px;">
-      👍 Like &nbsp;&nbsp; 🎉 Celebrate
+      👍 Like &nbsp;&nbsp; ❤️ Love &nbsp;&nbsp; 🎉 Celebrate
     </div>
   </div>
 
