@@ -16,15 +16,10 @@ order: 5
     <header class="major">
       <h1>Spotlight Feed</h1>
     </header>
+     <h3>Check out my feed for the latest updates and highlights from my work!</h3>
   </div>
 </section>
 
-<section id="two">
-  <div class="inner" style="text-align:center;">
-    <header class="major">
-      <h3>Check out my feed for the latest updates and highlights from my work!</h3>
-    </header>
-  </div>
 </section>
 
 <!-- Feed Container -->
