@@ -40,16 +40,30 @@ order: 5
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/IMG_5182.jpeg%}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/hpim2.jpeg %}" alt="" /></span></div>
 
+<div class="row 50% uniform">
+    <div class="4u">
+        <span class="image fit">
+            <img src="{% link assets/images/IMG_5182.jpeg %}" alt="" class="larger-image"/>
+        </span>
+    </div>
+    <div class="4u">
+        <span class="image fit">
+            <img src="{% link assets/images/hpim2.jpeg %}" alt="" class="larger-image"/>
+        </span>
+    </div>
+</div>
 
-    <p style="color: black;">In September, I had the privilege of attending The Washington Center’s Health Policy Immersion Program. Throughout the program, our cohort had the opportunity to hear from leaders in health policy across academia, government, journalism, and think tanks. This experience brought together students and professionals from all over the country, and I’m grateful to have made lasting connections with amazing peers and new friends.</p>
-<p style="color: black;">The program culminated with an insightful field trip to DC Medicaid, where we learned about the critical work being done to support our population’s health needs. A key theme that emerged in our discussions was the importance of adaptability in the face of a constantly evolving policy landscape. Resilience was highlighted as a central trait by every panelist.</p>
-<p style="color: black;">A heartfelt thank you to the organizers for making this incredible experience possible and to The Washington Center for creating spaces for immersive, shared learning.</p>
+    <p In September, I had the privilege of attending The Washington Center’s Health Policy Immersion Program. Throughout the program, our cohort had the opportunity to hear from leaders in health policy across academia, government, journalism, and think tanks. This experience brought together students and professionals from all over the country, and I’m grateful to have made lasting connections with amazing peers and new friends.</p>
+<p The program culminated with an insightful field trip to DC Medicaid, where we learned about the critical work being done to support our population’s health needs. A key theme that emerged in our discussions was the importance of adaptability in the face of a constantly evolving policy landscape. Resilience was highlighted as a central trait by every panelist.</p>
+<p A heartfelt thank you to the organizers for making this incredible experience possible and to The Washington Center for creating spaces for immersive, shared learning.</p>
+    <a href="https://twc.edu/programs/health-policy-immersion-program" style="color: #0073b1;">Learn more about this program</a>
 
     <!-- Icons -->
     <div style="border-top: 1px solid #eee; padding-top: 10px; font-size: 14px;">
       👍 Like &nbsp;&nbsp; ❤️ Love &nbsp;&nbsp; 🎉 Celebrate
     </div>
   </div>
+
 
   <!-- Post 2 -->
   <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; margin-bottom: 20px; background: #fff;">
