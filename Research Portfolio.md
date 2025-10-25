@@ -146,7 +146,7 @@ order: 2
     <!-- Project 3 -->
     <div class="accordion-item">
       <button class="accordion-header">
-        Patient-Provider Concordance and Outcomes in Allergy & Immunology <span class="arrow"> ▼</span>
+        Patient-Provider Concordance and Outcomes in Allergy Med <span class="arrow"> ▼</span>
       </button>
       <div class="accordion-content">
         <p>This research investigation seeks to examine the association between patient-provider demographic concordance (age, race, gender) and patient outcomes for asthma. This work is led by Dr. Ayobami Akenroye. </p>
