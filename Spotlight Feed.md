@@ -39,7 +39,7 @@ order: 5
 	 
 	 <div class="image-container" style="width: 100%;">
   <span class="image fit">
-    <img src="{% link assets/images/besafe.png %}" alt="" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" />
+    <img src="{% link assets/images/newbesafe.png %}" alt="" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" />
   </span>
 </div>
 
