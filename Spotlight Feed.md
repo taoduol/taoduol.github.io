@@ -37,9 +37,9 @@ order: 5
     </div>
        <!-- 🔻 REPLACE this URL with your image -->
 	 
-	 <div class="image-container" style="width: 100%;">
+	<div class="image-container" style="width: 100%;">
   <span class="image fit">
-    <img src="{% link assets/images/newbesafe.png %}" alt="" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" />
+    <img src="{% link assets/images/newbesafe.png %}" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
   </span>
 </div>
 
