@@ -49,6 +49,8 @@ order: 5
 
 <p style="color: black;"> I look forward to attending this conference again in the future and highly recommend it to anyone interested in this important topic. It’s free to attend, and the community is incredibly welcoming and collaborative.</p>
 
+<p 
+
 
     <!-- Icons -->
     <div style="border-top: 1px solid #eee; padding-top: 10px; font-size: 14px;">
@@ -87,6 +89,8 @@ order: 5
 
 <p style="color: black;"> I’m already looking forward to attending future conferences and encourage my Black sisters in healthcare to sign up—you don’t want to miss out! </p>
 
+<p style="color: blue;"> <a href="https://fakemedicinenomore.org/" style="color: #0073b1;">BESAFE Website</a> </p>
+
 
     <!-- Icons -->
     <div style="border-top: 1px solid #eee; padding-top: 10px; font-size: 14px;">
@@ -120,7 +124,7 @@ order: 5
 <p style="color: black;"> In September, I had the privilege of attending The Washington Center’s Health Policy Immersion Program. Throughout the program, our cohort had the opportunity to hear from leaders in health policy across academia, government, journalism, and think tanks. This experience brought together students and professionals from all over the country, and I’m grateful to have made lasting connections with amazing peers and new friends.</p>
 <p style="color: black;"> The program culminated with an insightful field trip to DC Medicaid, where we learned about the critical work being done to support our population’s health needs. A key theme that emerged in our discussions was the importance of adaptability in the face of a constantly evolving policy landscape. Resilience was highlighted as a central trait by every panelist.</p>
 <p style="color: black;"> A heartfelt thank you to the organizers for making this incredible experience possible and to The Washington Center for creating spaces for immersive, shared learning.</p>
-<a href="https://twc.edu/programs/health-policy-immersion-program" style="color: #0073b1;">Learn more about this program</a> 
+<p style="color: blue;"> <a href="https://twc.edu/programs/health-policy-immersion-program" style="color: #0073b1;">Learn more about this program</a> </p>
 
 
 
