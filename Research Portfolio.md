@@ -139,17 +139,17 @@ order: 2
         Commercial Payer Prices for Cancer Drugs  <span class="arrow"> ▼</span>
       </button>
       <div class="accordion-content">
-        <p>We are investigating commercial payer prices for oncology medicines, specifically assessing whether differences exist between prices at National Cancer Institute–designated centers and those at local hospital competitors across the United States.</p>
+        <p>We are investigating commercial payer prices for oncology medicines, specifically assessing whether differences exist between prices at National Cancer Institute–designated centers and those at local hospital competitors across the United States. This work is supervised by Dr. Willam B. Feldman.</p>
       </div>
     </div>
 
     <!-- Project 3 -->
     <div class="accordion-item">
       <button class="accordion-header">
-        Caregiver Documentation in the EHR <span class="arrow"> ▼</span>
+        Patient-Provider Concordance and Outcomes in Allergy & Immunology <span class="arrow"> ▼</span>
       </button>
       <div class="accordion-content">
-        <p>In accordance with the CARE Act, which requires hospitals to identify and document family caregivers for hospitalized patients in the electronic health record (EHR), we are conducting a chart review and applying natural language processing (NLP) techniques to examine how caregiver documentation is captured and recorded in EHRs.</p>
+        <p>This research investigation seeks to examine the association between patient-provider demographic concordance (age, race, gender) and patient outcomes for asthma. This work is led by Dr. Ayobami Akenroye. </p>
       </div>
     </div>
 
