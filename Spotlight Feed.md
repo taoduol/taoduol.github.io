@@ -23,30 +23,37 @@ order: 5
 
 <!-- Feed Container -->
 <div style="max-width: 600px; margin: auto; font-family: Montserrat, sans-serif; color: black;">
-
-	<!-- Post 2 -->
+ 
+	<!-- Post 3 -->
     <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; margin-bottom: 20px; background: #fff;">
     
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
       
    
       <div>
-        <strong style="color: black; font-family: 'Montserrat', sans-serif;">2025 BESAFE Conference</strong><br>
-        <span style="color: gray; font-size: 12px;"> Washington, DC • October 22, 2025</span>
+        <strong style="color: black; font-family: 'Montserrat', sans-serif;">2025 NEXUS Conference</strong><br>
+        <span style="color: gray; font-size: 12px;"> New York City • October 3, 2025</span>
       </div>
     </div>
        <!-- 🔻 REPLACE this URL with your image -->
 	 
 	  <div class="image-container" style="display: flex; gap: 10px; width: 100%;">
       <span class="image fit" style="flex: 1;">
-        <img src="{% link assets/images/besafe.png %}" alt="" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" />
+        <img src="{% link assets/images/nexus-back.jpg %}" alt="" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" />
       </span>
+      <span class="image fit" style="flex: 1;">
+        <img src="{% link assets/images/nexus.jpg %}" alt="" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" />
+      </span>
+    </div>
 
-<p style="color: black;"> Excited to have attended my favorite scientific conference once again! The BESAFE Conference, hosted by Johns Hopkins University, brings together academic scientists, policymakers, and legal experts from diverse fields—including chemistry, public health, supply chain management, and economics—from around the world to discuss the burden and impact of substandard and falsified (SF) medicines on human health.</p>
+<p style="color: black;"> In October, I had the privilege of attending the incredible 2025 Nurturing Excellence and Unifying Sisters in Medicine (NEXUS) Conference hosted by the Association of Black Gastroenterologists and Hepatologists (ABGH). This was my second time attending, and I have to say (again!)—it’s hands down my favorite conference ever.</p>
 
-<p style="color: black;"> SF medicines remain an unfamiliar issue to many in healthcare, including providers and pharmacists, as it is rarely addressed in clinical training. However, it poses an immense risk to patient safety. This conference provides an important platform to share evidence and strategies to combat this problem. By characterizing the burden in both high-income and low- and middle-income countries, we can better understand the nuances of the issue and mobilize stakeholders to allocate resources effectively to keep patients safe. </p>
+<p style="color: black;"> Focused on wellness and excellence among Black women, the weekend was filled with empowering sessions. We heard from leaders exploring topics like wellness for Black women, navigating career changes, managing finances, and channeling our inner resilience while also prioritizing self-care.</p>
 
-<p style="color: black;"> I look forward to attending this conference again in the future and highly recommend it to anyone interested in this important topic. It’s free to attend, and the community is incredibly welcoming and collaborative. </p>
+<p style="color: black;"> This conference provided a space blessed with so many successful and hardworking Black women, leaders, and changemakers. It was a refreshing, safe space where we could come together, connect, and uplift each other.</p>
+
+<p style="color: black;"> I’m already looking forward to attending future conferences and encourage my Black sisters in healthcare to sign up—you don’t want to miss out! </p>
+
 
     <!-- Icons -->
     <div style="border-top: 1px solid #eee; padding-top: 10px; font-size: 14px;">
@@ -127,6 +134,4 @@ order: 5
       👍 Like &nbsp;&nbsp; ❤️ Love &nbsp;&nbsp; 🎉 Celebrate
     </div>
   </div>
-
-
 
