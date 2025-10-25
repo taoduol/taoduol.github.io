@@ -24,6 +24,37 @@ order: 5
 <!-- Feed Container -->
 <div style="max-width: 600px; margin: auto; font-family: Montserrat, sans-serif; color: black;">
 
+	<!-- Post 2 -->
+    <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; margin-bottom: 20px; background: #fff;">
+    
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      
+   
+      <div>
+        <strong style="color: black; font-family: 'Montserrat', sans-serif;">2025 BESAFE Conference</strong><br>
+        <span style="color: gray; font-size: 12px;"> Washington, DC • October 22, 2025</span>
+      </div>
+    </div>
+       <!-- 🔻 REPLACE this URL with your image -->
+	 
+	  <div class="image-container" style="display: flex; gap: 10px; width: 100%;">
+      <span class="image fit" style="flex: 1;">
+        <img src="{% link assets/images/besafe.png %}" alt="" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" />
+      </span>
+
+<p style="color: black;"> Excited to be attending my favorite scientific conference once again! The BESAFE Conference, hosted by Johns Hopkins University, brings together academic scientists, policymakers, and legal experts from diverse fields—including chemistry, public health, supply chain management, and economics—from around the world to discuss the burden and impact of substandard and falsified (SF) medicines on human health.</p>
+
+<p style="color: black;"> SF medicines remain an unfamiliar issue to many in healthcare, including providers and pharmacists, as it is rarely addressed in clinical training. However, it poses an immense risk to patient safety. This conference provides an important platform to share evidence and strategies to combat this problem. By characterizing the burden in both high-income and low- and middle-income countries, we can better understand the nuances of the issue and mobilize stakeholders to allocate resources effectively to keep patients safe. </p>
+
+<p style="color: black;"> I look forward to attending this conference again in the future and highly recommend it to anyone interested in this important topic. It’s free to attend, and the community is incredibly welcoming and collaborative. </p>
+
+    <!-- Icons -->
+    <div style="border-top: 1px solid #eee; padding-top: 10px; font-size: 14px;">
+      👍 Like &nbsp;&nbsp; ❤️ Love &nbsp;&nbsp; 🎉 Celebrate
+    </div>
+  </div>
+
+
   <!-- Post 2 -->
     <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; margin-bottom: 20px; background: #fff;">
     
