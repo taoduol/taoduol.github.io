@@ -49,7 +49,7 @@ order: 5
 
 <p style="color: black;"> I look forward to attending this conference again in the future and highly recommend it to anyone interested in this important topic. It’s free to attend, and the community is incredibly welcoming and collaborative.</p>
 
-<p 
+<p style="color: blue;"> <a href="https://fakemedicinenomore.org/" style="color: #0073b1;">BESAFE Website</a> </p>
 
 
     <!-- Icons -->
@@ -89,7 +89,7 @@ order: 5
 
 <p style="color: black;"> I’m already looking forward to attending future conferences and encourage my Black sisters in healthcare to sign up—you don’t want to miss out! </p>
 
-<p style="color: blue;"> <a href="https://fakemedicinenomore.org/" style="color: #0073b1;">BESAFE Website</a> </p>
+
 
 
     <!-- Icons -->
