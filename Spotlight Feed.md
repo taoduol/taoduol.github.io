@@ -43,7 +43,7 @@ order: 5
   </span>
 </div>
 
-<p style="color: black;"> Excited to be attending my favorite scientific conference once again! The BESAFE Conference, hosted by Johns Hopkins University, brings together academic scientists, policymakers, and legal experts from diverse fields—chemistry, public health, supply chain management, economics, and more—from around the world to discuss the burden and impact of substandard and falsified (SF) medicines on human health.</p>
+<p style="color: black;"> Excited to have attended my favorite scientific conference once again! The BESAFE Conference, hosted by Johns Hopkins University, brings together academic scientists, policymakers, and legal experts from diverse fields—chemistry, public health, supply chain management, economics, and more—from around the world to discuss the burden and impact of substandard and falsified (SF) medicines on human health.</p>
 
 <p style="color: black;"> SF medicines remain an unfamiliar issue to many in healthcare, including providers and pharmacists, as it is rarely addressed in clinical training. However, it poses an immense risk to patient safety. This conference provides an important platform to share evidence and strategies to combat this problem. By characterizing the burden in both high-income and low- and middle-income countries, we can better understand the nuances of the issue and mobilize stakeholders to allocate resources effectively to keep patients safe.</p>
 
