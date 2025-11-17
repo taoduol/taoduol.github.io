@@ -23,6 +23,44 @@ order: 5
 
 <!-- Feed Container -->
 <div style="max-width: 600px; margin: auto; font-family: Montserrat, sans-serif; color: black;">
+
+	<!-- Post 4 -->
+    <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; margin-bottom: 20px; background: #fff;">
+    
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      
+   
+      <div>
+        <strong style="color: black; font-family: 'Montserrat', sans-serif;">Nonprofit Leadership and Advocacy Seminar</strong><br>
+        <span style="color: gray; font-size: 12px;"> Washington, DC • November 11, 2025</span>
+      </div>
+    </div>
+       <!-- 🔻 REPLACE this URL with your image -->
+	 
+	<div class="image-container" style="width: 100%;">
+  <span class="image fit">
+    <img src="{% link assets/images/IMG_5077.jpeg %}" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+  </span>
+</div>
+
+<p style="color: black;"> The week I spent in Washington, D.C. (yes—again!) attending the Nonprofit Leadership and Advocacy Program at The Washington Center was truly transformative. I want to emphasize how pivotal short immersion programs have been for renewing my sense of vision and possibility. They create space for shared learning, new connections, and hands-on experience that deepens understanding in ways traditional learning cannot.</p>
+
+<p style="color: black;"> This week reminded me it’s essential to take time—at least quarterly—to gain new perspectives, build skills, and foster meaningful relationships. This program delivered all of that. We explored key facets of nonprofit work, from navigating funding uncertainty and understanding nonprofit finance to building partnerships and more. We also worked in groups as nonprofit consultants, tackling a case study and presenting our recommendations to the team.</p>
+
+<p style="color: black;"> I learned alongside people from diverse disciplines—some preparing to launch their own nonprofits, others already leading one—and I’m incredibly grateful for the insights they shared. I’m especially thankful to The Washington Center for cultivating such a welcoming environment for learners at all educational backgrounds and career stages, and for providing me with a scholarship to attend.</p>
+
+<p style="color: black;"> I learned alongside people from diverse disciplines—some preparing to launch their own nonprofits, others already leading one—and I’m incredibly grateful for the insights they shared. I’m especially thankful to The Washington Center for cultivating such a welcoming environment for learners at all educational backgrounds and career stages, and for providing me with a scholarship to attend.</p>
+
+<p style="color: black;"> This experience offered invaluable perspective on how I approach my work and think about growth as a research professional. I’m leaving inspired, energized, and deeply appreciative.</p>
+
+<p style="color: blue;"> <a href="https://twc.edu/programs/nonprofit-leadership-and-advocacy-seminar" style="color: #0073b1;">Learn More</a> </p>
+
+
+    <!-- Icons -->
+    <div style="border-top: 1px solid #eee; padding-top: 10px; font-size: 14px;">
+      👍 Like &nbsp;&nbsp; ❤️ Love &nbsp;&nbsp; 🎉 Celebrate
+    </div>
+  </div>
  
 	<!-- Post 3 -->
     <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; margin-bottom: 20px; background: #fff;">
