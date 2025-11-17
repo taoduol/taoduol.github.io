@@ -43,11 +43,9 @@ order: 5
   </span>
 </div>
 
-<p style="color: black;"> The week I spent in Washington, D.C. (yes—again!) attending the Nonprofit Leadership and Advocacy Program at The Washington Center was truly transformative. I want to emphasize how pivotal short immersion programs have been for renewing my sense of vision and possibility. They create space for shared learning, new connections, and hands-on experience that deepens understanding in ways traditional learning cannot.</p>
+<p style="color: black;"> The week I spent in Washington, D.C. (yes—again!) attending the Nonprofit Leadership and Advocacy Program at The Washington Center was truly transformative. I want to emphasize how pivotal short immersion programs have been for renewing my sense of vision and possibility. They create space for shared learning, new connections, and hands-on experience that deepens understanding in unexpected ways.</p>
 
 <p style="color: black;"> This week reminded me it’s essential to take time—at least quarterly—to gain new perspectives, build skills, and foster meaningful relationships. This program delivered all of that. We explored key facets of nonprofit work, from navigating funding uncertainty and understanding nonprofit finance to building partnerships and more. We also worked in groups as nonprofit consultants, tackling a case study and presenting our recommendations to the team.</p>
-
-<p style="color: black;"> I learned alongside people from diverse disciplines—some preparing to launch their own nonprofits, others already leading one—and I’m incredibly grateful for the insights they shared. I’m especially thankful to The Washington Center for cultivating such a welcoming environment for learners at all educational backgrounds and career stages, and for providing me with a scholarship to attend.</p>
 
 <p style="color: black;"> I learned alongside people from diverse disciplines—some preparing to launch their own nonprofits, others already leading one—and I’m incredibly grateful for the insights they shared. I’m especially thankful to The Washington Center for cultivating such a welcoming environment for learners at all educational backgrounds and career stages, and for providing me with a scholarship to attend.</p>
 
